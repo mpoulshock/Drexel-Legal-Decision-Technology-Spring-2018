@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root product-version="12.2.9.975">
+  <entities>
+    <entity ref="global">
+      <attribute name="d05cd8ef-e4fc-4f58-b325-edcae1b87c78" type="boolean" validation-message="Invalid value.">
+        <text>
+          <base>the person is an adult</base>
+          <parse>s(ver('12.2.9.975'),v(be,t(simple,present,normal)),sb('the person',singular),o('an adult'))</parse>
+        </text>
+      </attribute>
+      <attribute name="2629e805-1fd4-457b-b56b-5cdf27f72e5a" type="boolean" validation-message="Invalid value.">
+        <text>
+          <base>the application is a renewal</base>
+          <parse>s(ver('12.2.9.975'),v(be,t(simple,present,normal)),sb('the application',singular),o('a renewal'))</parse>
+        </text>
+      </attribute>
+    </entity>
+  </entities>
+  <relationships />
+</root>

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root product-version="12.2.9.975">
+  <entities>
+    <entity ref="global">
+      <attribute name="a927023b-1d19-475f-8f85-6f3030aa06b0" type="date" validation-message="Invalid value.">
+        <text>
+          <base>january 31st of the year</base>
+        </text>
+      </attribute>
+      <attribute name="48ce7838-9ea1-4a8c-901f-92af28ea6d1f" type="text" public-name="new_entity_2" substitutable="true" default-gender="Generic" user-created="true">
+        <text>
+          <base>the new entity 2</base>
+        </text>
+      </attribute>
+    </entity>
+  </entities>
+  <relationships></relationships>
+</root>
