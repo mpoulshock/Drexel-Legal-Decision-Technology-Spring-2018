@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root product-version="12.2.9.975">
+  <entities>
+    <entity ref="global" />
+    <entity id="a3d9bace-c7cf-4a97-b00c-2e57a341437e" name="the person" identifying-attribute-name="1d0b3dac-b4fb-4501-b403-2515f00f398a" containment-relationship-id="888ddadc-5b3a-4242-87e3-1375bb58fbb9" containment-parent-id="global">
+      <attribute name="1d0b3dac-b4fb-4501-b403-2515f00f398a" type="text" public-name="person" substitutable="true" default-gender="Generic" user-created="true">
+        <text>
+          <base>the person</base>
+        </text>
+      </attribute>
+    </entity>
+    <entity id="177831ce-1a2d-48fd-9cb8-d9d74f012d07" name="the destination" identifying-attribute-name="84539454-4a60-4618-ac29-cae6670e3e77" containment-relationship-id="4628b071-3117-43aa-9c64-aea2f82237fd" containment-parent-id="global">
+      <attribute name="84539454-4a60-4618-ac29-cae6670e3e77" type="text" public-name="destination" substitutable="true" default-gender="Generic" user-created="true">
+        <text>
+          <base>the destination</base>
+        </text>
+      </attribute>
+    </entity>
+    <entity id="4366d47c-ae62-40b7-911a-47cc8d1e69e8" name="the pet" identifying-attribute-name="a5c85148-210a-4e52-8e1d-2c14fc030ee3" containment-relationship-id="0ad9c34d-4c56-4e55-b133-e7a83df2cf02" containment-parent-id="global">
+      <attribute name="a5c85148-210a-4e52-8e1d-2c14fc030ee3" type="text" public-name="pet" substitutable="true" default-gender="Generic" user-created="true">
+        <text>
+          <base>the pet</base>
+        </text>
+      </attribute>
+    </entity>
+  </entities>
+  <relationships>
+    <relationship relationship-id="888ddadc-5b3a-4242-87e3-1375bb58fbb9" reverse-relationship-id="94a34da9-c326-4738-a231-e429f84cc423" source="global" target="a3d9bace-c7cf-4a97-b00c-2e57a341437e" is-containment="true" public-id="" reverse-public-id="" text="the people" reverse-text="" type="OneToMany" is-computed="false" silent-if-known="true" invisible-if-known="true" />
+    <relationship relationship-id="25d5a464-99a9-46e1-b5c0-803b28bd0ec6" reverse-relationship-id="b56b4fe7-76a2-47fd-8c61-38fe726b0419" source="a3d9bace-c7cf-4a97-b00c-2e57a341437e" target="a3d9bace-c7cf-4a97-b00c-2e57a341437e" is-containment="false" public-id="" reverse-public-id="" text="the person's obligors" reverse-text="the person's obligees" type="ManyToMany" is-computed="false" silent-if-known="true" invisible-if-known="true" />
+    <relationship relationship-id="4628b071-3117-43aa-9c64-aea2f82237fd" reverse-relationship-id="511685b2-3158-4490-8513-53114dbc47e9" source="global" target="177831ce-1a2d-48fd-9cb8-d9d74f012d07" is-containment="true" public-id="" reverse-public-id="" text="the destinations" reverse-text="" type="OneToMany" is-computed="false" silent-if-known="true" invisible-if-known="true" />
+    <relationship relationship-id="0ad9c34d-4c56-4e55-b133-e7a83df2cf02" reverse-relationship-id="a8998b81-0245-4b36-a66c-8a553dab18d2" source="global" target="4366d47c-ae62-40b7-911a-47cc8d1e69e8" is-containment="true" public-id="" reverse-public-id="" text="all instances of the pet" reverse-text="" type="OneToMany" is-computed="false" silent-if-known="true" invisible-if-known="true" />
+  </relationships>
+</root>

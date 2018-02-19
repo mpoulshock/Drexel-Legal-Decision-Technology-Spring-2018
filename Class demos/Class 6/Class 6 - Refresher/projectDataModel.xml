@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root product-version="12.2.9.975">
+  <entities>
+    <entity ref="global">
+      <attribute name="3881c56c-4b27-49c9-9c61-3664a3891fff" type="text" public-name="state_being_visited" validation-message="Invalid value." substitutable="true">
+        <text>
+          <base>the state being visited</base>
+        </text>
+      </attribute>
+      <attribute name="0fc42ead-2621-41e4-81b5-66e16185787e" type="boolean" validation-message="Invalid value.">
+        <text>
+          <base>the person can purchase medical marijuana in the state being visited</base>
+          <parse>s(ver('12.2.9.975'),v(purchase+can,t(simple,modal,normal)),sb('the person',plural),o('medical marijuana in the state being visited'))</parse>
+        </text>
+      </attribute>
+      <attribute name="b49ad1af-ddbf-4188-b220-82e551fecfbc" type="boolean" validation-message="Invalid value.">
+        <text>
+          <base>the person has a prescription for medical marijuana in a state other than the state being visited</base>
+          <parse>s(ver('12.2.9.975'),v(have,t(simple,present,normal)),sb('the person',singular),o('a prescription for medical marijuana in a state other than the state being visited'))</parse>
+        </text>
+      </attribute>
+      <attribute name="5dfe3e4a-5514-40a2-9728-0067ad2f796c" type="boolean" validation-message="Invalid value.">
+        <text>
+          <base>the person can possess medical marijuana in the state being visited</base>
+          <parse>s(ver('12.2.9.975'),v(possess+can,t(simple,modal,normal)),sb('the person',plural),o('medical marijuana in the state being visited'))</parse>
+        </text>
+      </attribute>
+    </entity>
+  </entities>
+  <relationships />
+</root>
