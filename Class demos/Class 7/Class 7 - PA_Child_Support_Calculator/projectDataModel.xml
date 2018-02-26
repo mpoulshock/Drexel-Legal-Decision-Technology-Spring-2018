@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root product-version="12.2.9.975">
+  <entities>
+    <entity ref="global" />
+    <entity id="c7213dee-a496-4d6a-ada5-227a1967a340" name="the person" identifying-attribute-name="32ef4b1f-d1f1-4bbc-b286-7d0029935e0a" containment-relationship-id="4c9595d0-757b-4fef-a2e7-ba9f45f5a5f6" containment-parent-id="global">
+      <attribute name="32ef4b1f-d1f1-4bbc-b286-7d0029935e0a" type="text" public-name="person" substitutable="true" default-gender="Generic" user-created="true">
+        <text>
+          <base>the person</base>
+        </text>
+      </attribute>
+      <attribute name="63a038f0-f1fd-44e8-9076-51d7999c3e0f" type="boolean" validation-message="Invalid value.">
+        <text>
+          <base>the person owes child support</base>
+          <parse>s(ver('12.2.9.975'),v(owe,t(simple,present,normal)),sb('the person',singular),o('child support'))</parse>
+        </text>
+      </attribute>
+      <attribute name="6b52a7f9-8317-4bd3-981a-3df2304afab3" type="currency" validation-message="Invalid value.">
+        <text>
+          <base>the person's child care expenses (line 12(a))</base>
+        </text>
+      </attribute>
+      <attribute name="f9d52b95-7aa8-4373-a063-9f6cf7aea011" type="number" validation-message="Invalid value.">
+        <text>
+          <base>the person's net income as a percentage share of income (line 7)</base>
+        </text>
+      </attribute>
+    </entity>
+  </entities>
+  <relationships>
+    <relationship relationship-id="4c9595d0-757b-4fef-a2e7-ba9f45f5a5f6" reverse-relationship-id="a9272b57-638c-4f6c-be98-855219f25940" source="global" target="c7213dee-a496-4d6a-ada5-227a1967a340" is-containment="true" public-id="" reverse-public-id="" text="the people" reverse-text="" type="OneToMany" is-computed="false" silent-if-known="true" invisible-if-known="true" />
+  </relationships>
+</root>

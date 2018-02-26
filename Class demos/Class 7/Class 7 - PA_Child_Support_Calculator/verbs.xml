@@ -1,0 +1,4326 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<verbs product-version="12.2.9.975">
+  <verb id="abandon">
+    <form id="1" text="abandon" />
+    <form id="2" text="abandon" />
+    <form id="3" text="abandons" />
+    <form id="4" text="abandon" />
+    <form id="5" text="abandoned" />
+    <form id="6" text="abandoned" />
+    <form id="7" text="abandoned" />
+    <form id="8" text="abandoning" />
+    <form id="9" text="abandoned" />
+  </verb>
+  <verb id="abide">
+    <form id="1" text="abide" />
+    <form id="2" text="abide" />
+    <form id="3" text="abides" />
+    <form id="4" text="abide" />
+    <form id="5" text="abided" />
+    <form id="6" text="abided" />
+    <form id="7" text="abided" />
+    <form id="8" text="abiding" />
+    <form id="9" text="abided" />
+  </verb>
+  <verb id="accept">
+    <form id="1" text="accept" />
+    <form id="2" text="accept" />
+    <form id="3" text="accepts" />
+    <form id="4" text="accept" />
+    <form id="5" text="accepted" />
+    <form id="6" text="accepted" />
+    <form id="7" text="accepted" />
+    <form id="8" text="accepting" />
+    <form id="9" text="accepted" />
+  </verb>
+  <verb id="accommodate">
+    <form id="1" text="accommodate" />
+    <form id="2" text="accommodate" />
+    <form id="3" text="accommodates" />
+    <form id="4" text="accommodate" />
+    <form id="5" text="accommodated" />
+    <form id="6" text="accommodated" />
+    <form id="7" text="accommodated" />
+    <form id="8" text="accommodating" />
+    <form id="9" text="accommodated" />
+  </verb>
+  <verb id="acknowledge">
+    <form id="1" text="acknowledge" />
+    <form id="2" text="acknowledge" />
+    <form id="3" text="acknowledges" />
+    <form id="4" text="acknowledge" />
+    <form id="5" text="acknowledged" />
+    <form id="6" text="acknowledged" />
+    <form id="7" text="acknowledged" />
+    <form id="8" text="acknowledging" />
+    <form id="9" text="acknowledged" />
+  </verb>
+  <verb id="acquire">
+    <form id="1" text="acquire" />
+    <form id="2" text="acquire" />
+    <form id="3" text="acquires" />
+    <form id="4" text="acquire" />
+    <form id="5" text="acquired" />
+    <form id="6" text="acquired" />
+    <form id="7" text="acquired" />
+    <form id="8" text="acquiring" />
+    <form id="9" text="acquired" />
+  </verb>
+  <verb id="act">
+    <form id="1" text="act" />
+    <form id="2" text="act" />
+    <form id="3" text="acts" />
+    <form id="4" text="act" />
+    <form id="5" text="acted" />
+    <form id="6" text="acted" />
+    <form id="7" text="acted" />
+    <form id="8" text="acting" />
+    <form id="9" text="acted" />
+  </verb>
+  <verb id="action">
+    <form id="1" text="action" />
+    <form id="2" text="action" />
+    <form id="3" text="actions" />
+    <form id="4" text="action" />
+    <form id="5" text="actioned" />
+    <form id="6" text="actioned" />
+    <form id="7" text="actioned" />
+    <form id="8" text="actioning" />
+    <form id="9" text="actioned" />
+  </verb>
+  <verb id="activate">
+    <form id="1" text="activate" />
+    <form id="2" text="activate" />
+    <form id="3" text="activates" />
+    <form id="4" text="activate" />
+    <form id="5" text="activated" />
+    <form id="6" text="activated" />
+    <form id="7" text="activated" />
+    <form id="8" text="activating" />
+    <form id="9" text="activated" />
+  </verb>
+  <verb id="adjust">
+    <form id="1" text="adjust" />
+    <form id="2" text="adjust" />
+    <form id="3" text="adjusts" />
+    <form id="4" text="adjust" />
+    <form id="5" text="adjusted" />
+    <form id="6" text="adjusted" />
+    <form id="7" text="adjusted" />
+    <form id="8" text="adjusting" />
+    <form id="9" text="adjusted" />
+  </verb>
+  <verb id="administer">
+    <form id="1" text="administer" />
+    <form id="2" text="administer" />
+    <form id="3" text="administers" />
+    <form id="4" text="administer" />
+    <form id="5" text="administered" />
+    <form id="6" text="administered" />
+    <form id="7" text="administered" />
+    <form id="8" text="administering" />
+    <form id="9" text="administered" />
+  </verb>
+  <verb id="affect">
+    <form id="1" text="affect" />
+    <form id="2" text="affect" />
+    <form id="3" text="affects" />
+    <form id="4" text="affect" />
+    <form id="5" text="affected" />
+    <form id="6" text="affected" />
+    <form id="7" text="affected" />
+    <form id="8" text="affecting" />
+    <form id="9" text="affected" />
+  </verb>
+  <verb id="aggravate">
+    <form id="1" text="aggravate" />
+    <form id="2" text="aggravate" />
+    <form id="3" text="aggravates" />
+    <form id="4" text="aggravate" />
+    <form id="5" text="aggravated" />
+    <form id="6" text="aggravated" />
+    <form id="7" text="aggravated" />
+    <form id="8" text="aggravating" />
+    <form id="9" text="aggravated" />
+  </verb>
+  <verb id="agree">
+    <form id="1" text="agree" />
+    <form id="2" text="agree" />
+    <form id="3" text="agrees" />
+    <form id="4" text="agree" />
+    <form id="5" text="agreed" />
+    <form id="6" text="agreed" />
+    <form id="7" text="agreed" />
+    <form id="8" text="agreeing" />
+    <form id="9" text="agreed" />
+  </verb>
+  <verb id="allow">
+    <form id="1" text="allow" />
+    <form id="2" text="allow" />
+    <form id="3" text="allows" />
+    <form id="4" text="allow" />
+    <form id="5" text="allowed" />
+    <form id="6" text="allowed" />
+    <form id="7" text="allowed" />
+    <form id="8" text="allowing" />
+    <form id="9" text="allowed" />
+  </verb>
+  <verb id="appear">
+    <form id="1" text="appear" />
+    <form id="2" text="appear" />
+    <form id="3" text="appears" />
+    <form id="4" text="appear" />
+    <form id="5" text="appeared" />
+    <form id="6" text="appeared" />
+    <form id="7" text="appeared" />
+    <form id="8" text="appearing" />
+    <form id="9" text="appeared" />
+  </verb>
+  <verb id="apply">
+    <form id="1" text="apply" />
+    <form id="2" text="apply" />
+    <form id="3" text="applies" />
+    <form id="4" text="apply" />
+    <form id="5" text="applied" />
+    <form id="6" text="applied" />
+    <form id="7" text="applied" />
+    <form id="8" text="applying" />
+    <form id="9" text="applied" />
+  </verb>
+  <verb id="approve">
+    <form id="1" text="approve" />
+    <form id="2" text="approve" />
+    <form id="3" text="approves" />
+    <form id="4" text="approve" />
+    <form id="5" text="approved" />
+    <form id="6" text="approved" />
+    <form id="7" text="approved" />
+    <form id="8" text="approving" />
+    <form id="9" text="approved" />
+  </verb>
+  <verb id="arise">
+    <form id="1" text="arise" />
+    <form id="2" text="arise" />
+    <form id="3" text="arises" />
+    <form id="4" text="arise" />
+    <form id="5" text="arose" />
+    <form id="6" text="arose" />
+    <form id="7" text="arose" />
+    <form id="8" text="arising" />
+    <form id="9" text="arisen" />
+  </verb>
+  <verb id="assess">
+    <form id="1" text="assess" />
+    <form id="2" text="assess" />
+    <form id="3" text="assesses" />
+    <form id="4" text="assess" />
+    <form id="5" text="assessed" />
+    <form id="6" text="assessed" />
+    <form id="7" text="assessed" />
+    <form id="8" text="assessing" />
+    <form id="9" text="assessed" />
+  </verb>
+  <verb id="attack">
+    <form id="1" text="attack" />
+    <form id="2" text="attack" />
+    <form id="3" text="attacks" />
+    <form id="4" text="attack" />
+    <form id="5" text="attacked" />
+    <form id="6" text="attacked" />
+    <form id="7" text="attacked" />
+    <form id="8" text="attacking" />
+    <form id="9" text="attacked" />
+  </verb>
+  <verb id="attain">
+    <form id="1" text="attain" />
+    <form id="2" text="attain" />
+    <form id="3" text="attains" />
+    <form id="4" text="attain" />
+    <form id="5" text="attained" />
+    <form id="6" text="attained" />
+    <form id="7" text="attained" />
+    <form id="8" text="attaining" />
+    <form id="9" text="attained" />
+  </verb>
+  <verb id="attend">
+    <form id="1" text="attend" />
+    <form id="2" text="attend" />
+    <form id="3" text="attends" />
+    <form id="4" text="attend" />
+    <form id="5" text="attended" />
+    <form id="6" text="attended" />
+    <form id="7" text="attended" />
+    <form id="8" text="attending" />
+    <form id="9" text="attended" />
+  </verb>
+  <verb id="attribute">
+    <form id="1" text="attribute" />
+    <form id="2" text="attribute" />
+    <form id="3" text="attributes" />
+    <form id="4" text="attribute" />
+    <form id="5" text="attributed" />
+    <form id="6" text="attributed" />
+    <form id="7" text="attributed" />
+    <form id="8" text="attributing" />
+    <form id="9" text="attributed" />
+  </verb>
+  <verb id="avoid">
+    <form id="1" text="avoid" />
+    <form id="2" text="avoid" />
+    <form id="3" text="avoids" />
+    <form id="4" text="avoid" />
+    <form id="5" text="avoided" />
+    <form id="6" text="avoided" />
+    <form id="7" text="avoided" />
+    <form id="8" text="avoiding" />
+    <form id="9" text="avoided" />
+  </verb>
+  <verb id="awake">
+    <form id="1" text="awake" />
+    <form id="2" text="awake" />
+    <form id="3" text="awakes" />
+    <form id="4" text="awake" />
+    <form id="5" text="awoke" />
+    <form id="6" text="awoke" />
+    <form id="7" text="awoke" />
+    <form id="8" text="awaking" />
+    <form id="9" text="awoken" />
+  </verb>
+  <verb id="award">
+    <form id="1" text="award" />
+    <form id="2" text="award" />
+    <form id="3" text="awards" />
+    <form id="4" text="award" />
+    <form id="5" text="awarded" />
+    <form id="6" text="awarded" />
+    <form id="7" text="awarded" />
+    <form id="8" text="awarding" />
+    <form id="9" text="awarded" />
+  </verb>
+  <verb id="base">
+    <form id="1" text="base" />
+    <form id="2" text="base" />
+    <form id="3" text="bases" />
+    <form id="4" text="base" />
+    <form id="5" text="based" />
+    <form id="6" text="based" />
+    <form id="7" text="based" />
+    <form id="8" text="basing" />
+    <form id="9" text="based" />
+  </verb>
+  <verb id="be">
+    <form id="1" text="be" />
+    <form id="2" text="are" />
+    <form id="3" text="is" />
+    <form id="4" text="are" />
+    <form id="5" text="were" />
+    <form id="6" text="was" />
+    <form id="7" text="were" />
+    <form id="8" text="being" />
+    <form id="9" text="been" />
+  </verb>
+  <verb id="bear">
+    <form id="1" text="bear" />
+    <form id="2" text="bear" />
+    <form id="3" text="bears" />
+    <form id="4" text="bear" />
+    <form id="5" text="bore" />
+    <form id="6" text="bore" />
+    <form id="7" text="bore" />
+    <form id="8" text="bearing" />
+    <form id="9" text="borne" />
+  </verb>
+  <verb id="beat">
+    <form id="1" text="beat" />
+    <form id="2" text="beat" />
+    <form id="3" text="beats" />
+    <form id="4" text="beat" />
+    <form id="5" text="beat" />
+    <form id="6" text="beat" />
+    <form id="7" text="beat" />
+    <form id="8" text="beating" />
+    <form id="9" text="beaten" />
+  </verb>
+  <verb id="become">
+    <form id="1" text="become" />
+    <form id="2" text="become" />
+    <form id="3" text="becomes" />
+    <form id="4" text="become" />
+    <form id="5" text="became" />
+    <form id="6" text="became" />
+    <form id="7" text="became" />
+    <form id="8" text="becoming" />
+    <form id="9" text="become" />
+  </verb>
+  <verb id="befall">
+    <form id="1" text="befall" />
+    <form id="2" text="befall" />
+    <form id="3" text="befalls" />
+    <form id="4" text="befall" />
+    <form id="5" text="befell" />
+    <form id="6" text="befell" />
+    <form id="7" text="befell" />
+    <form id="8" text="befalling" />
+    <form id="9" text="befallen" />
+  </verb>
+  <verb id="beget">
+    <form id="1" text="beget" />
+    <form id="2" text="beget" />
+    <form id="3" text="begets" />
+    <form id="4" text="beget" />
+    <form id="5" text="begot" />
+    <form id="6" text="begot" />
+    <form id="7" text="begot" />
+    <form id="8" text="begetting" />
+    <form id="9" text="begotten" />
+  </verb>
+  <verb id="begin">
+    <form id="1" text="begin" />
+    <form id="2" text="begin" />
+    <form id="3" text="begins" />
+    <form id="4" text="begin" />
+    <form id="5" text="began" />
+    <form id="6" text="began" />
+    <form id="7" text="began" />
+    <form id="8" text="beginning" />
+    <form id="9" text="begun" />
+  </verb>
+  <verb id="behold">
+    <form id="1" text="behold" />
+    <form id="2" text="behold" />
+    <form id="3" text="beholds" />
+    <form id="4" text="behold" />
+    <form id="5" text="beheld" />
+    <form id="6" text="beheld" />
+    <form id="7" text="beheld" />
+    <form id="8" text="beholding" />
+    <form id="9" text="beheld" />
+  </verb>
+  <verb id="belong">
+    <form id="1" text="belong" />
+    <form id="2" text="belong" />
+    <form id="3" text="belongs" />
+    <form id="4" text="belong" />
+    <form id="5" text="belonged" />
+    <form id="6" text="belonged" />
+    <form id="7" text="belonged" />
+    <form id="8" text="belonging" />
+    <form id="9" text="belonged" />
+  </verb>
+  <verb id="bend">
+    <form id="1" text="bend" />
+    <form id="2" text="bend" />
+    <form id="3" text="bends" />
+    <form id="4" text="bend" />
+    <form id="5" text="bent" />
+    <form id="6" text="bent" />
+    <form id="7" text="bent" />
+    <form id="8" text="bending" />
+    <form id="9" text="bent" />
+  </verb>
+  <verb id="bereave">
+    <form id="1" text="bereave" />
+    <form id="2" text="bereave" />
+    <form id="3" text="bereaves" />
+    <form id="4" text="bereave" />
+    <form id="5" text="bereaved" />
+    <form id="6" text="bereaved" />
+    <form id="7" text="bereaved" />
+    <form id="8" text="bereaving" />
+    <form id="9" text="bereaved" />
+  </verb>
+  <verb id="beseech">
+    <form id="1" text="beseech" />
+    <form id="2" text="beseech" />
+    <form id="3" text="beseeches" />
+    <form id="4" text="beseech" />
+    <form id="5" text="beseeched" />
+    <form id="6" text="beseeched" />
+    <form id="7" text="beseeched" />
+    <form id="8" text="beseeching" />
+    <form id="9" text="beseeched" />
+  </verb>
+  <verb id="bet">
+    <form id="1" text="bet" />
+    <form id="2" text="bet" />
+    <form id="3" text="bets" />
+    <form id="4" text="bet" />
+    <form id="5" text="bet" />
+    <form id="6" text="bet" />
+    <form id="7" text="bet" />
+    <form id="8" text="betting" />
+    <form id="9" text="bet" />
+  </verb>
+  <verb id="bid">
+    <form id="1" text="bid" />
+    <form id="2" text="bid" />
+    <form id="3" text="bids" />
+    <form id="4" text="bid" />
+    <form id="5" text="bid" />
+    <form id="6" text="bid" />
+    <form id="7" text="bid" />
+    <form id="8" text="bidding" />
+    <form id="9" text="bid" />
+  </verb>
+  <verb id="bind">
+    <form id="1" text="bind" />
+    <form id="2" text="bind" />
+    <form id="3" text="binds" />
+    <form id="4" text="bind" />
+    <form id="5" text="bound" />
+    <form id="6" text="bound" />
+    <form id="7" text="bound" />
+    <form id="8" text="binding" />
+    <form id="9" text="bound" />
+  </verb>
+  <verb id="bite">
+    <form id="1" text="bite" />
+    <form id="2" text="bite" />
+    <form id="3" text="bites" />
+    <form id="4" text="bite" />
+    <form id="5" text="bit" />
+    <form id="6" text="bit" />
+    <form id="7" text="bit" />
+    <form id="8" text="biting" />
+    <form id="9" text="bitten" />
+  </verb>
+  <verb id="bleed">
+    <form id="1" text="bleed" />
+    <form id="2" text="bleed" />
+    <form id="3" text="bleeds" />
+    <form id="4" text="bleed" />
+    <form id="5" text="bled" />
+    <form id="6" text="bled" />
+    <form id="7" text="bled" />
+    <form id="8" text="bleeding" />
+    <form id="9" text="bled" />
+  </verb>
+  <verb id="blow">
+    <form id="1" text="blow" />
+    <form id="2" text="blow" />
+    <form id="3" text="blows" />
+    <form id="4" text="blow" />
+    <form id="5" text="blew" />
+    <form id="6" text="blew" />
+    <form id="7" text="blew" />
+    <form id="8" text="blowing" />
+    <form id="9" text="blown" />
+  </verb>
+  <verb id="board">
+    <form id="1" text="board" />
+    <form id="2" text="board" />
+    <form id="3" text="boards" />
+    <form id="4" text="board" />
+    <form id="5" text="boarded" />
+    <form id="6" text="boarded" />
+    <form id="7" text="boarded" />
+    <form id="8" text="boarding" />
+    <form id="9" text="boarded" />
+  </verb>
+  <verb id="break">
+    <form id="1" text="break" />
+    <form id="2" text="break" />
+    <form id="3" text="breaks" />
+    <form id="4" text="break" />
+    <form id="5" text="broke" />
+    <form id="6" text="broke" />
+    <form id="7" text="broke" />
+    <form id="8" text="breaking" />
+    <form id="9" text="broken" />
+  </verb>
+  <verb id="breed">
+    <form id="1" text="breed" />
+    <form id="2" text="breed" />
+    <form id="3" text="breeds" />
+    <form id="4" text="breed" />
+    <form id="5" text="bred" />
+    <form id="6" text="bred" />
+    <form id="7" text="bred" />
+    <form id="8" text="breeding" />
+    <form id="9" text="bred" />
+  </verb>
+  <verb id="bring">
+    <form id="1" text="bring" />
+    <form id="2" text="bring" />
+    <form id="3" text="brings" />
+    <form id="4" text="bring" />
+    <form id="5" text="brought" />
+    <form id="6" text="brought" />
+    <form id="7" text="brought" />
+    <form id="8" text="bringing" />
+    <form id="9" text="brought" />
+  </verb>
+  <verb id="broadcast">
+    <form id="1" text="broadcast" />
+    <form id="2" text="broadcast" />
+    <form id="3" text="broadcasts" />
+    <form id="4" text="broadcast" />
+    <form id="5" text="broadcasted" />
+    <form id="6" text="broadcasted" />
+    <form id="7" text="broadcasted" />
+    <form id="8" text="broadcasting" />
+    <form id="9" text="broadcasted" />
+  </verb>
+  <verb id="build">
+    <form id="1" text="build" />
+    <form id="2" text="build" />
+    <form id="3" text="builds" />
+    <form id="4" text="build" />
+    <form id="5" text="built" />
+    <form id="6" text="built" />
+    <form id="7" text="built" />
+    <form id="8" text="building" />
+    <form id="9" text="built" />
+  </verb>
+  <verb id="burn">
+    <form id="1" text="burn" />
+    <form id="2" text="burn" />
+    <form id="3" text="burns" />
+    <form id="4" text="burn" />
+    <form id="5" text="burnt" />
+    <form id="6" text="burnt" />
+    <form id="7" text="burnt" />
+    <form id="8" text="burning" />
+    <form id="9" text="burnt" />
+  </verb>
+  <verb id="burst">
+    <form id="1" text="burst" />
+    <form id="2" text="burst" />
+    <form id="3" text="burst" />
+    <form id="4" text="burst" />
+    <form id="5" text="burst" />
+    <form id="6" text="burst" />
+    <form id="7" text="burst" />
+    <form id="8" text="bursting" />
+    <form id="9" text="burst" />
+  </verb>
+  <verb id="buy">
+    <form id="1" text="buy" />
+    <form id="2" text="buy" />
+    <form id="3" text="buys" />
+    <form id="4" text="buy" />
+    <form id="5" text="bought" />
+    <form id="6" text="bought" />
+    <form id="7" text="bought" />
+    <form id="8" text="buying" />
+    <form id="9" text="bought" />
+  </verb>
+  <verb id="calculate">
+    <form id="1" text="calculate" />
+    <form id="2" text="calculate" />
+    <form id="3" text="calculates" />
+    <form id="4" text="calculate" />
+    <form id="5" text="calculated" />
+    <form id="6" text="calculated" />
+    <form id="7" text="calculated" />
+    <form id="8" text="calculating" />
+    <form id="9" text="calculated" />
+  </verb>
+  <verb id="can">
+    <form id="1" text="can" />
+    <form id="2" text="can" />
+    <form id="3" text="can" />
+    <form id="4" text="can" />
+    <form id="5" text="canned" />
+    <form id="6" text="canned" />
+    <form id="7" text="canned" />
+    <form id="8" text="canning" />
+    <form id="9" text="canned" />
+  </verb>
+  <verb id="cancel">
+    <form id="1" text="cancel" />
+    <form id="2" text="cancel" />
+    <form id="3" text="cancels" />
+    <form id="4" text="cancel" />
+    <form id="5" text="canceled" />
+    <form id="6" text="canceled" />
+    <form id="7" text="canceled" />
+    <form id="8" text="canceling" />
+    <form id="9" text="canceled" />
+  </verb>
+  <verb id="care">
+    <form id="1" text="care" />
+    <form id="2" text="care" />
+    <form id="3" text="cares" />
+    <form id="4" text="care" />
+    <form id="5" text="cared" />
+    <form id="6" text="cared" />
+    <form id="7" text="cared" />
+    <form id="8" text="caring" />
+    <form id="9" text="cared" />
+  </verb>
+  <verb id="carry">
+    <form id="1" text="carry" />
+    <form id="2" text="carry" />
+    <form id="3" text="carries" />
+    <form id="4" text="carry" />
+    <form id="5" text="carried" />
+    <form id="6" text="carried" />
+    <form id="7" text="carried" />
+    <form id="8" text="carrying" />
+    <form id="9" text="carried" />
+  </verb>
+  <verb id="cast">
+    <form id="1" text="cast" />
+    <form id="2" text="cast" />
+    <form id="3" text="cast" />
+    <form id="4" text="cast" />
+    <form id="5" text="cast" />
+    <form id="6" text="cast" />
+    <form id="7" text="cast" />
+    <form id="8" text="casting" />
+    <form id="9" text="cast" />
+  </verb>
+  <verb id="catch">
+    <form id="1" text="catch" />
+    <form id="2" text="catch" />
+    <form id="3" text="catches" />
+    <form id="4" text="catch" />
+    <form id="5" text="caught" />
+    <form id="6" text="caught" />
+    <form id="7" text="caught" />
+    <form id="8" text="catching" />
+    <form id="9" text="caught" />
+  </verb>
+  <verb id="cause">
+    <form id="1" text="cause" />
+    <form id="2" text="cause" />
+    <form id="3" text="causes" />
+    <form id="4" text="cause" />
+    <form id="5" text="caused" />
+    <form id="6" text="caused" />
+    <form id="7" text="caused" />
+    <form id="8" text="causing" />
+    <form id="9" text="caused" />
+  </verb>
+  <verb id="cease">
+    <form id="1" text="cease" />
+    <form id="2" text="cease" />
+    <form id="3" text="ceases" />
+    <form id="4" text="cease" />
+    <form id="5" text="ceased" />
+    <form id="6" text="ceased" />
+    <form id="7" text="ceased" />
+    <form id="8" text="ceasing" />
+    <form id="9" text="ceased" />
+  </verb>
+  <verb id="certify">
+    <form id="1" text="certify" />
+    <form id="2" text="certify" />
+    <form id="3" text="certifies" />
+    <form id="4" text="certify" />
+    <form id="5" text="certified" />
+    <form id="6" text="certified" />
+    <form id="7" text="certified" />
+    <form id="8" text="certifying" />
+    <form id="9" text="certifyed" />
+  </verb>
+  <verb id="change">
+    <form id="1" text="change" />
+    <form id="2" text="change" />
+    <form id="3" text="changes" />
+    <form id="4" text="change" />
+    <form id="5" text="changed" />
+    <form id="6" text="changed" />
+    <form id="7" text="changed" />
+    <form id="8" text="changing" />
+    <form id="9" text="changed" />
+  </verb>
+  <verb id="chide">
+    <form id="1" text="chide" />
+    <form id="2" text="chide" />
+    <form id="3" text="chides" />
+    <form id="4" text="chide" />
+    <form id="5" text="chided" />
+    <form id="6" text="chided" />
+    <form id="7" text="chided" />
+    <form id="8" text="chiding" />
+    <form id="9" text="chided" />
+  </verb>
+  <verb id="choose">
+    <form id="1" text="choose" />
+    <form id="2" text="choose" />
+    <form id="3" text="chooses" />
+    <form id="4" text="choose" />
+    <form id="5" text="chose" />
+    <form id="6" text="chose" />
+    <form id="7" text="chose" />
+    <form id="8" text="choosing" />
+    <form id="9" text="chosen" />
+  </verb>
+  <verb id="claim">
+    <form id="1" text="claim" />
+    <form id="2" text="claim" />
+    <form id="3" text="claims" />
+    <form id="4" text="claim" />
+    <form id="5" text="claimed" />
+    <form id="6" text="claimed" />
+    <form id="7" text="claimed" />
+    <form id="8" text="claiming" />
+    <form id="9" text="claimed" />
+  </verb>
+  <verb id="cleave">
+    <form id="1" text="cleave" />
+    <form id="2" text="cleave" />
+    <form id="3" text="cleaves" />
+    <form id="4" text="cleave" />
+    <form id="5" text="clove" />
+    <form id="6" text="cloved" />
+    <form id="7" text="cloved" />
+    <form id="8" text="cleaving" />
+    <form id="9" text="cleft" />
+  </verb>
+  <verb id="cling">
+    <form id="1" text="cling" />
+    <form id="2" text="cling" />
+    <form id="3" text="clings" />
+    <form id="4" text="cling" />
+    <form id="5" text="clung" />
+    <form id="6" text="clung" />
+    <form id="7" text="clung" />
+    <form id="8" text="clinging" />
+    <form id="9" text="clung" />
+  </verb>
+  <verb id="clothe">
+    <form id="1" text="clothe" />
+    <form id="2" text="clothe" />
+    <form id="3" text="clothes" />
+    <form id="4" text="clothe" />
+    <form id="5" text="clothed" />
+    <form id="6" text="clothed" />
+    <form id="7" text="clothed" />
+    <form id="8" text="clothing" />
+    <form id="9" text="clothed" />
+  </verb>
+  <verb id="collect">
+    <form id="1" text="collect" />
+    <form id="2" text="collect" />
+    <form id="3" text="collects" />
+    <form id="4" text="collect" />
+    <form id="5" text="collected" />
+    <form id="6" text="collected" />
+    <form id="7" text="collected" />
+    <form id="8" text="collecting" />
+    <form id="9" text="collected" />
+  </verb>
+  <verb id="come">
+    <form id="1" text="come" />
+    <form id="2" text="come" />
+    <form id="3" text="comes" />
+    <form id="4" text="come" />
+    <form id="5" text="came" />
+    <form id="6" text="came" />
+    <form id="7" text="came" />
+    <form id="8" text="coming" />
+    <form id="9" text="come" />
+  </verb>
+  <verb id="commence">
+    <form id="1" text="commence" />
+    <form id="2" text="commence" />
+    <form id="3" text="commences" />
+    <form id="4" text="commence" />
+    <form id="5" text="commenced" />
+    <form id="6" text="commenced" />
+    <form id="7" text="commenced" />
+    <form id="8" text="commencing" />
+    <form id="9" text="commenced" />
+  </verb>
+  <verb id="compile">
+    <form id="1" text="compile" />
+    <form id="2" text="compile" />
+    <form id="3" text="compiles" />
+    <form id="4" text="compile" />
+    <form id="5" text="compiled" />
+    <form id="6" text="compiled" />
+    <form id="7" text="compiled" />
+    <form id="8" text="compiling" />
+    <form id="9" text="compiled" />
+  </verb>
+  <verb id="complete">
+    <form id="1" text="complete" />
+    <form id="2" text="complete" />
+    <form id="3" text="completes" />
+    <form id="4" text="complete" />
+    <form id="5" text="completed" />
+    <form id="6" text="completed" />
+    <form id="7" text="completed" />
+    <form id="8" text="completing" />
+    <form id="9" text="completed" />
+  </verb>
+  <verb id="comply">
+    <form id="1" text="comply" />
+    <form id="2" text="comply" />
+    <form id="3" text="complies" />
+    <form id="4" text="comply" />
+    <form id="5" text="complied" />
+    <form id="6" text="complied" />
+    <form id="7" text="complied" />
+    <form id="8" text="complying" />
+    <form id="9" text="complied" />
+  </verb>
+  <verb id="comprise">
+    <form id="1" text="comprise" />
+    <form id="2" text="comprise" />
+    <form id="3" text="comprises" />
+    <form id="4" text="comprise" />
+    <form id="5" text="comprised" />
+    <form id="6" text="comprised" />
+    <form id="7" text="comprised" />
+    <form id="8" text="comprising" />
+    <form id="9" text="comprised" />
+  </verb>
+  <verb id="confirm">
+    <form id="1" text="confirm" />
+    <form id="2" text="confirm" />
+    <form id="3" text="confirms" />
+    <form id="4" text="confirm" />
+    <form id="5" text="confirmed" />
+    <form id="6" text="confirmed" />
+    <form id="7" text="confirmed" />
+    <form id="8" text="confirming" />
+    <form id="9" text="confirmed" />
+  </verb>
+  <verb id="connect">
+    <form id="1" text="connect" />
+    <form id="2" text="connect" />
+    <form id="3" text="connects" />
+    <form id="4" text="connect" />
+    <form id="5" text="connected" />
+    <form id="6" text="connected" />
+    <form id="7" text="connected" />
+    <form id="8" text="connecting" />
+    <form id="9" text="connected" />
+  </verb>
+  <verb id="consider">
+    <form id="1" text="consider" />
+    <form id="2" text="consider" />
+    <form id="3" text="considers" />
+    <form id="4" text="consider" />
+    <form id="5" text="considered" />
+    <form id="6" text="considered" />
+    <form id="7" text="considered" />
+    <form id="8" text="considering" />
+    <form id="9" text="considered" />
+  </verb>
+  <verb id="consist">
+    <form id="1" text="consist" />
+    <form id="2" text="consist" />
+    <form id="3" text="consists" />
+    <form id="4" text="consist" />
+    <form id="5" text="consisted" />
+    <form id="6" text="consisted" />
+    <form id="7" text="consisted" />
+    <form id="8" text="consisting" />
+    <form id="9" text="consisted" />
+  </verb>
+  <verb id="constitute">
+    <form id="1" text="constitute" />
+    <form id="2" text="constitute" />
+    <form id="3" text="constitutes" />
+    <form id="4" text="constitute" />
+    <form id="5" text="constituted" />
+    <form id="6" text="constituted" />
+    <form id="7" text="constituted" />
+    <form id="8" text="constituting" />
+    <form id="9" text="constituted" />
+  </verb>
+  <verb id="consume">
+    <form id="1" text="consume" />
+    <form id="2" text="consume" />
+    <form id="3" text="consumes" />
+    <form id="4" text="consume" />
+    <form id="5" text="consumed" />
+    <form id="6" text="consumed" />
+    <form id="7" text="consumed" />
+    <form id="8" text="consuming" />
+    <form id="9" text="consumed" />
+  </verb>
+  <verb id="contain">
+    <form id="1" text="contain" />
+    <form id="2" text="contain" />
+    <form id="3" text="contains" />
+    <form id="4" text="contain" />
+    <form id="5" text="contained" />
+    <form id="6" text="contained" />
+    <form id="7" text="contained" />
+    <form id="8" text="containing" />
+    <form id="9" text="contained" />
+  </verb>
+  <verb id="contaminate">
+    <form id="1" text="contaminate" />
+    <form id="2" text="contaminate" />
+    <form id="3" text="contaminates" />
+    <form id="4" text="contaminate" />
+    <form id="5" text="contaminated" />
+    <form id="6" text="contaminated" />
+    <form id="7" text="contaminated" />
+    <form id="8" text="contaminating" />
+    <form id="9" text="contaminated" />
+  </verb>
+  <verb id="continue">
+    <form id="1" text="continue" />
+    <form id="2" text="continue" />
+    <form id="3" text="continues" />
+    <form id="4" text="continue" />
+    <form id="5" text="continued" />
+    <form id="6" text="continued" />
+    <form id="7" text="continued" />
+    <form id="8" text="continuing" />
+    <form id="9" text="continued" />
+  </verb>
+  <verb id="contract">
+    <form id="1" text="contract" />
+    <form id="2" text="contract" />
+    <form id="3" text="contracts" />
+    <form id="4" text="contract" />
+    <form id="5" text="contracted" />
+    <form id="6" text="contracted" />
+    <form id="7" text="contracted" />
+    <form id="8" text="contracting" />
+    <form id="9" text="contracted" />
+  </verb>
+  <verb id="contribute">
+    <form id="1" text="contribute" />
+    <form id="2" text="contribute" />
+    <form id="3" text="contributes" />
+    <form id="4" text="contribute" />
+    <form id="5" text="contributed" />
+    <form id="6" text="contributed" />
+    <form id="7" text="contributed" />
+    <form id="8" text="contributing" />
+    <form id="9" text="contributed" />
+  </verb>
+  <verb id="convict">
+    <form id="1" text="convict" />
+    <form id="2" text="convict" />
+    <form id="3" text="convicts" />
+    <form id="4" text="convict" />
+    <form id="5" text="convicted" />
+    <form id="6" text="convicted" />
+    <form id="7" text="convicted" />
+    <form id="8" text="convicting" />
+    <form id="9" text="convicted" />
+  </verb>
+  <verb id="cost">
+    <form id="1" text="cost" />
+    <form id="2" text="cost" />
+    <form id="3" text="costs" />
+    <form id="4" text="cost" />
+    <form id="5" text="cost" />
+    <form id="6" text="cost" />
+    <form id="7" text="cost" />
+    <form id="8" text="costing" />
+    <form id="9" text="cost" />
+  </verb>
+  <verb id="cover">
+    <form id="1" text="cover" />
+    <form id="2" text="cover" />
+    <form id="3" text="covers" />
+    <form id="4" text="cover" />
+    <form id="5" text="covered" />
+    <form id="6" text="covered" />
+    <form id="7" text="covered" />
+    <form id="8" text="covering" />
+    <form id="9" text="covered" />
+  </verb>
+  <verb id="crash">
+    <form id="1" text="crash" />
+    <form id="2" text="crash" />
+    <form id="3" text="crashs" />
+    <form id="4" text="crash" />
+    <form id="5" text="crashed" />
+    <form id="6" text="crashed" />
+    <form id="7" text="crashed" />
+    <form id="8" text="crashing" />
+    <form id="9" text="crashed" />
+  </verb>
+  <verb id="create">
+    <form id="1" text="create" />
+    <form id="2" text="create" />
+    <form id="3" text="creates" />
+    <form id="4" text="create" />
+    <form id="5" text="created" />
+    <form id="6" text="created" />
+    <form id="7" text="created" />
+    <form id="8" text="creating" />
+    <form id="9" text="created" />
+  </verb>
+  <verb id="creep">
+    <form id="1" text="creep" />
+    <form id="2" text="creep" />
+    <form id="3" text="creeps" />
+    <form id="4" text="creep" />
+    <form id="5" text="crept" />
+    <form id="6" text="crept" />
+    <form id="7" text="crept" />
+    <form id="8" text="creeping" />
+    <form id="9" text="crept" />
+  </verb>
+  <verb id="crow">
+    <form id="1" text="crow" />
+    <form id="2" text="crow" />
+    <form id="3" text="crows" />
+    <form id="4" text="crow" />
+    <form id="5" text="crowed" />
+    <form id="6" text="crowed" />
+    <form id="7" text="crowed" />
+    <form id="8" text="crowing" />
+    <form id="9" text="crowed" />
+  </verb>
+  <verb id="cut">
+    <form id="1" text="cut" />
+    <form id="2" text="cut" />
+    <form id="3" text="cuts" />
+    <form id="4" text="cut" />
+    <form id="5" text="cut" />
+    <form id="6" text="cut" />
+    <form id="7" text="cut" />
+    <form id="8" text="cutting" />
+    <form id="9" text="cut" />
+  </verb>
+  <verb id="dare">
+    <form id="1" text="dare" />
+    <form id="2" text="dare" />
+    <form id="3" text="dares" />
+    <form id="4" text="dare" />
+    <form id="5" text="dared" />
+    <form id="6" text="dared" />
+    <form id="7" text="dared" />
+    <form id="8" text="daring" />
+    <form id="9" text="dared" />
+  </verb>
+  <verb id="deal">
+    <form id="1" text="deal" />
+    <form id="2" text="deal" />
+    <form id="3" text="deals" />
+    <form id="4" text="deal" />
+    <form id="5" text="dealt" />
+    <form id="6" text="dealt" />
+    <form id="7" text="dealt" />
+    <form id="8" text="dealing" />
+    <form id="9" text="dealt" />
+  </verb>
+  <verb id="decide">
+    <form id="1" text="decide" />
+    <form id="2" text="decide" />
+    <form id="3" text="decides" />
+    <form id="4" text="decide" />
+    <form id="5" text="decided" />
+    <form id="6" text="decided" />
+    <form id="7" text="decided" />
+    <form id="8" text="deciding" />
+    <form id="9" text="decided" />
+  </verb>
+  <verb id="decline">
+    <form id="1" text="decline" />
+    <form id="2" text="decline" />
+    <form id="3" text="declines" />
+    <form id="4" text="decline" />
+    <form id="5" text="declined" />
+    <form id="6" text="declined" />
+    <form id="7" text="declined" />
+    <form id="8" text="declining" />
+    <form id="9" text="declined" />
+  </verb>
+  <verb id="deduct">
+    <form id="1" text="deduct" />
+    <form id="2" text="deduct" />
+    <form id="3" text="deducts" />
+    <form id="4" text="deduct" />
+    <form id="5" text="deducted" />
+    <form id="6" text="deducted" />
+    <form id="7" text="deducted" />
+    <form id="8" text="deducting" />
+    <form id="9" text="deducted" />
+  </verb>
+  <verb id="deem">
+    <form id="1" text="deem" />
+    <form id="2" text="deem" />
+    <form id="3" text="deems" />
+    <form id="4" text="deem" />
+    <form id="5" text="deemed" />
+    <form id="6" text="deemed" />
+    <form id="7" text="deemed" />
+    <form id="8" text="deeming" />
+    <form id="9" text="deemed" />
+  </verb>
+  <verb id="defer">
+    <form id="1" text="defer" />
+    <form id="2" text="defer" />
+    <form id="3" text="defers" />
+    <form id="4" text="defer" />
+    <form id="5" text="deferred" />
+    <form id="6" text="deferred" />
+    <form id="7" text="deferred" />
+    <form id="8" text="deferring" />
+    <form id="9" text="deferred" />
+  </verb>
+  <verb id="delay">
+    <form id="1" text="delay" />
+    <form id="2" text="delay" />
+    <form id="3" text="delays" />
+    <form id="4" text="delay" />
+    <form id="5" text="delayed" />
+    <form id="6" text="delayed" />
+    <form id="7" text="delayed" />
+    <form id="8" text="delaying" />
+    <form id="9" text="delayed" />
+  </verb>
+  <verb id="demonstrate">
+    <form id="1" text="demonstrate" />
+    <form id="2" text="demonstrate" />
+    <form id="3" text="demonstrates" />
+    <form id="4" text="demonstrate" />
+    <form id="5" text="demonstrated" />
+    <form id="6" text="demonstrated" />
+    <form id="7" text="demonstrated" />
+    <form id="8" text="demonstrating" />
+    <form id="9" text="demonstrated" />
+  </verb>
+  <verb id="deprive">
+    <form id="1" text="deprive" />
+    <form id="2" text="deprive" />
+    <form id="3" text="deprives" />
+    <form id="4" text="deprive" />
+    <form id="5" text="deprived" />
+    <form id="6" text="deprived" />
+    <form id="7" text="deprived" />
+    <form id="8" text="depriving" />
+    <form id="9" text="deprived" />
+  </verb>
+  <verb id="derive">
+    <form id="1" text="derive" />
+    <form id="2" text="derive" />
+    <form id="3" text="derives" />
+    <form id="4" text="derive" />
+    <form id="5" text="derived" />
+    <form id="6" text="derived" />
+    <form id="7" text="derived" />
+    <form id="8" text="deriving" />
+    <form id="9" text="derived" />
+  </verb>
+  <verb id="describe">
+    <form id="1" text="describe" />
+    <form id="2" text="describe" />
+    <form id="3" text="describes" />
+    <form id="4" text="describe" />
+    <form id="5" text="described" />
+    <form id="6" text="described" />
+    <form id="7" text="described" />
+    <form id="8" text="describing" />
+    <form id="9" text="described" />
+  </verb>
+  <verb id="detain">
+    <form id="1" text="detain" />
+    <form id="2" text="detain" />
+    <form id="3" text="detains" />
+    <form id="4" text="detain" />
+    <form id="5" text="detained" />
+    <form id="6" text="detained" />
+    <form id="7" text="detained" />
+    <form id="8" text="detaining" />
+    <form id="9" text="detained" />
+  </verb>
+  <verb id="determine">
+    <form id="1" text="determine" />
+    <form id="2" text="determine" />
+    <form id="3" text="determines" />
+    <form id="4" text="determine" />
+    <form id="5" text="determined" />
+    <form id="6" text="determined" />
+    <form id="7" text="determined" />
+    <form id="8" text="determining" />
+    <form id="9" text="determined" />
+  </verb>
+  <verb id="develop">
+    <form id="1" text="develop" />
+    <form id="2" text="develop" />
+    <form id="3" text="develops" />
+    <form id="4" text="develop" />
+    <form id="5" text="developed" />
+    <form id="6" text="developed" />
+    <form id="7" text="developed" />
+    <form id="8" text="developing" />
+    <form id="9" text="developed" />
+  </verb>
+  <verb id="diagnose">
+    <form id="1" text="diagnose" />
+    <form id="2" text="diagnose" />
+    <form id="3" text="diagnoses" />
+    <form id="4" text="diagnose" />
+    <form id="5" text="diagnosed" />
+    <form id="6" text="diagnosed" />
+    <form id="7" text="diagnosed" />
+    <form id="8" text="diagnosing" />
+    <form id="9" text="diagnosed" />
+  </verb>
+  <verb id="die">
+    <form id="1" text="die" />
+    <form id="2" text="die" />
+    <form id="3" text="dies" />
+    <form id="4" text="die" />
+    <form id="5" text="died" />
+    <form id="6" text="died" />
+    <form id="7" text="died" />
+    <form id="8" text="dying" />
+    <form id="9" text="died" />
+  </verb>
+  <verb id="dig">
+    <form id="1" text="dig" />
+    <form id="2" text="dig" />
+    <form id="3" text="digs" />
+    <form id="4" text="dig" />
+    <form id="5" text="dug" />
+    <form id="6" text="dug" />
+    <form id="7" text="dug" />
+    <form id="8" text="digging" />
+    <form id="9" text="dug" />
+  </verb>
+  <verb id="discontinue">
+    <form id="1" text="discontinue" />
+    <form id="2" text="discontinue" />
+    <form id="3" text="discontinues" />
+    <form id="4" text="discontinue" />
+    <form id="5" text="discontinued" />
+    <form id="6" text="discontinued" />
+    <form id="7" text="discontinued" />
+    <form id="8" text="discontinuing" />
+    <form id="9" text="discontinued" />
+  </verb>
+  <verb id="disentitle">
+    <form id="1" text="disentitle" />
+    <form id="2" text="disentitle" />
+    <form id="3" text="disentitles" />
+    <form id="4" text="disentitle" />
+    <form id="5" text="disentitled" />
+    <form id="6" text="disentitled" />
+    <form id="7" text="disentitled" />
+    <form id="8" text="disentitling" />
+    <form id="9" text="disentitled" />
+  </verb>
+  <verb id="disqualify">
+    <form id="1" text="disqualify" />
+    <form id="2" text="disqualify" />
+    <form id="3" text="disqualifies" />
+    <form id="4" text="disqualify" />
+    <form id="5" text="disqualified" />
+    <form id="6" text="disqualified" />
+    <form id="7" text="disqualified" />
+    <form id="8" text="disqualifying" />
+    <form id="9" text="disqualified" />
+  </verb>
+  <verb id="divide">
+    <form id="1" text="divide" />
+    <form id="2" text="divide" />
+    <form id="3" text="divides" />
+    <form id="4" text="divide" />
+    <form id="5" text="divided" />
+    <form id="6" text="divided" />
+    <form id="7" text="divided" />
+    <form id="8" text="dividing" />
+    <form id="9" text="divided" />
+  </verb>
+  <verb id="display">
+    <form id="1" text="display" />
+    <form id="2" text="display" />
+    <form id="3" text="displays" />
+    <form id="4" text="display" />
+    <form id="5" text="displayed" />
+    <form id="6" text="displayed" />
+    <form id="7" text="displayed" />
+    <form id="8" text="displaying" />
+    <form id="9" text="displayed" />
+  </verb>
+  <verb id="do">
+    <form id="1" text="do" />
+    <form id="2" text="do" />
+    <form id="3" text="does" />
+    <form id="4" text="do" />
+    <form id="5" text="did" />
+    <form id="6" text="did" />
+    <form id="7" text="did" />
+    <form id="8" text="doing" />
+    <form id="9" text="done" />
+  </verb>
+  <verb id="double">
+    <form id="1" text="double" />
+    <form id="2" text="double" />
+    <form id="3" text="doubles" />
+    <form id="4" text="double" />
+    <form id="5" text="doubled" />
+    <form id="6" text="doubled" />
+    <form id="7" text="doubled" />
+    <form id="8" text="doubling" />
+    <form id="9" text="doubled" />
+  </verb>
+  <verb id="draw">
+    <form id="1" text="draw" />
+    <form id="2" text="draw" />
+    <form id="3" text="draws" />
+    <form id="4" text="draw" />
+    <form id="5" text="drew" />
+    <form id="6" text="drew" />
+    <form id="7" text="drew" />
+    <form id="8" text="drawing" />
+    <form id="9" text="drawn" />
+  </verb>
+  <verb id="dream">
+    <form id="1" text="dream" />
+    <form id="2" text="dream" />
+    <form id="3" text="dreams" />
+    <form id="4" text="dream" />
+    <form id="5" text="dreamed" />
+    <form id="6" text="dreamed" />
+    <form id="7" text="dreamed" />
+    <form id="8" text="dreaming" />
+    <form id="9" text="dreamed" />
+  </verb>
+  <verb id="drink">
+    <form id="1" text="drink" />
+    <form id="2" text="drink" />
+    <form id="3" text="drinks" />
+    <form id="4" text="drink" />
+    <form id="5" text="drank" />
+    <form id="6" text="drank" />
+    <form id="7" text="drank" />
+    <form id="8" text="drinking" />
+    <form id="9" text="drunk" />
+  </verb>
+  <verb id="drive">
+    <form id="1" text="drive" />
+    <form id="2" text="drive" />
+    <form id="3" text="drives" />
+    <form id="4" text="drive" />
+    <form id="5" text="drove" />
+    <form id="6" text="drove" />
+    <form id="7" text="drove" />
+    <form id="8" text="driving" />
+    <form id="9" text="driven" />
+  </verb>
+  <verb id="dwell">
+    <form id="1" text="dwell" />
+    <form id="2" text="dwell" />
+    <form id="3" text="dwells" />
+    <form id="4" text="dwell" />
+    <form id="5" text="dwelled" />
+    <form id="6" text="dwelled" />
+    <form id="7" text="dwelled" />
+    <form id="8" text="dwelling" />
+    <form id="9" text="dwelled" />
+  </verb>
+  <verb id="earn">
+    <form id="1" text="earn" />
+    <form id="2" text="earn" />
+    <form id="3" text="earns" />
+    <form id="4" text="earn" />
+    <form id="5" text="earned" />
+    <form id="6" text="earned" />
+    <form id="7" text="earned" />
+    <form id="8" text="earning" />
+    <form id="9" text="earned" />
+  </verb>
+  <verb id="eat">
+    <form id="1" text="eat" />
+    <form id="2" text="eat" />
+    <form id="3" text="eats" />
+    <form id="4" text="eat" />
+    <form id="5" text="ate" />
+    <form id="6" text="ate" />
+    <form id="7" text="ate" />
+    <form id="8" text="eating" />
+    <form id="9" text="eaten" />
+  </verb>
+  <verb id="elect">
+    <form id="1" text="elect" />
+    <form id="2" text="elect" />
+    <form id="3" text="elects" />
+    <form id="4" text="elect" />
+    <form id="5" text="elected" />
+    <form id="6" text="elected" />
+    <form id="7" text="elected" />
+    <form id="8" text="electing" />
+    <form id="9" text="elected" />
+  </verb>
+  <verb id="embark">
+    <form id="1" text="embark" />
+    <form id="2" text="embark" />
+    <form id="3" text="embarks" />
+    <form id="4" text="embark" />
+    <form id="5" text="embarked" />
+    <form id="6" text="embarked" />
+    <form id="7" text="embarked" />
+    <form id="8" text="embarking" />
+    <form id="9" text="embarked" />
+  </verb>
+  <verb id="employ">
+    <form id="1" text="employ" />
+    <form id="2" text="employ" />
+    <form id="3" text="employs" />
+    <form id="4" text="employ" />
+    <form id="5" text="employed" />
+    <form id="6" text="employed" />
+    <form id="7" text="employed" />
+    <form id="8" text="employing" />
+    <form id="9" text="employed" />
+  </verb>
+  <verb id="enable">
+    <form id="1" text="enable" />
+    <form id="2" text="enable" />
+    <form id="3" text="enables" />
+    <form id="4" text="enable" />
+    <form id="5" text="enabled" />
+    <form id="6" text="enabled" />
+    <form id="7" text="enabled" />
+    <form id="8" text="enabling" />
+    <form id="9" text="enabled" />
+  </verb>
+  <verb id="engage">
+    <form id="1" text="engage" />
+    <form id="2" text="engage" />
+    <form id="3" text="engages" />
+    <form id="4" text="engage" />
+    <form id="5" text="engaged" />
+    <form id="6" text="engaged" />
+    <form id="7" text="engaged" />
+    <form id="8" text="engaging" />
+    <form id="9" text="engaged" />
+  </verb>
+  <verb id="ensure">
+    <form id="1" text="ensure" />
+    <form id="2" text="ensure" />
+    <form id="3" text="ensures" />
+    <form id="4" text="ensure" />
+    <form id="5" text="ensured" />
+    <form id="6" text="ensured" />
+    <form id="7" text="ensured" />
+    <form id="8" text="ensuring" />
+    <form id="9" text="ensured" />
+  </verb>
+  <verb id="enter">
+    <form id="1" text="enter" />
+    <form id="2" text="enter" />
+    <form id="3" text="enters" />
+    <form id="4" text="enter" />
+    <form id="5" text="entered" />
+    <form id="6" text="entered" />
+    <form id="7" text="entered" />
+    <form id="8" text="entering" />
+    <form id="9" text="entered" />
+  </verb>
+  <verb id="entitle">
+    <form id="1" text="entitle" />
+    <form id="2" text="entitle" />
+    <form id="3" text="entitles" />
+    <form id="4" text="entitle" />
+    <form id="5" text="entitled" />
+    <form id="6" text="entitled" />
+    <form id="7" text="entitled" />
+    <form id="8" text="entitling" />
+    <form id="9" text="entitled" />
+  </verb>
+  <verb id="establish">
+    <form id="1" text="establish" />
+    <form id="2" text="establish" />
+    <form id="3" text="establishes" />
+    <form id="4" text="establish" />
+    <form id="5" text="established" />
+    <form id="6" text="established" />
+    <form id="7" text="established" />
+    <form id="8" text="establishing" />
+    <form id="9" text="established" />
+  </verb>
+  <verb id="exceed">
+    <form id="1" text="exceed" />
+    <form id="2" text="exceed" />
+    <form id="3" text="exceeds" />
+    <form id="4" text="exceed" />
+    <form id="5" text="exceeded" />
+    <form id="6" text="exceeded" />
+    <form id="7" text="exceeded" />
+    <form id="8" text="exceeding" />
+    <form id="9" text="exceeded" />
+  </verb>
+  <verb id="exclude">
+    <form id="1" text="exclude" />
+    <form id="2" text="exclude" />
+    <form id="3" text="excludes" />
+    <form id="4" text="exclude" />
+    <form id="5" text="excluded" />
+    <form id="6" text="excluded" />
+    <form id="7" text="excluded" />
+    <form id="8" text="excluding" />
+    <form id="9" text="excluded" />
+  </verb>
+  <verb id="exist">
+    <form id="1" text="exist" />
+    <form id="2" text="exist" />
+    <form id="3" text="exists" />
+    <form id="4" text="exist" />
+    <form id="5" text="existed" />
+    <form id="6" text="existed" />
+    <form id="7" text="existed" />
+    <form id="8" text="existing" />
+    <form id="9" text="existed" />
+  </verb>
+  <verb id="expect">
+    <form id="1" text="expect" />
+    <form id="2" text="expect" />
+    <form id="3" text="expects" />
+    <form id="4" text="expect" />
+    <form id="5" text="expected" />
+    <form id="6" text="expected" />
+    <form id="7" text="expected" />
+    <form id="8" text="expecting" />
+    <form id="9" text="expected" />
+  </verb>
+  <verb id="expire">
+    <form id="1" text="expire" />
+    <form id="2" text="expire" />
+    <form id="3" text="expires" />
+    <form id="4" text="expire" />
+    <form id="5" text="expired" />
+    <form id="6" text="expired" />
+    <form id="7" text="expired" />
+    <form id="8" text="expiring" />
+    <form id="9" text="expired" />
+  </verb>
+  <verb id="extend">
+    <form id="1" text="extend" />
+    <form id="2" text="extend" />
+    <form id="3" text="extends" />
+    <form id="4" text="extend" />
+    <form id="5" text="extended" />
+    <form id="6" text="extended" />
+    <form id="7" text="extended" />
+    <form id="8" text="extending" />
+    <form id="9" text="extended" />
+  </verb>
+  <verb id="evaluate">
+    <form id="1" text="evaluate" />
+    <form id="2" text="evaluate" />
+    <form id="3" text="evaluates" />
+    <form id="4" text="evaluate" />
+    <form id="5" text="evaluated" />
+    <form id="6" text="evaluated" />
+    <form id="7" text="evaluated" />
+    <form id="8" text="evaluating" />
+    <form id="9" text="evaluated" />
+  </verb>
+  <verb id="evolve">
+    <form id="1" text="evolve" />
+    <form id="2" text="evolve" />
+    <form id="3" text="evolves" />
+    <form id="4" text="evolve" />
+    <form id="5" text="evolved" />
+    <form id="6" text="evolved" />
+    <form id="7" text="evolved" />
+    <form id="8" text="evolving" />
+    <form id="9" text="evolved" />
+  </verb>
+  <verb id="experience">
+    <form id="1" text="experience" />
+    <form id="2" text="experience" />
+    <form id="3" text="experiences" />
+    <form id="4" text="experience" />
+    <form id="5" text="experienced" />
+    <form id="6" text="experienced" />
+    <form id="7" text="experienced" />
+    <form id="8" text="experiencing" />
+    <form id="9" text="experienced" />
+  </verb>
+  <verb id="expose">
+    <form id="1" text="expose" />
+    <form id="2" text="expose" />
+    <form id="3" text="exposes" />
+    <form id="4" text="expose" />
+    <form id="5" text="exposed" />
+    <form id="6" text="exposed" />
+    <form id="7" text="exposed" />
+    <form id="8" text="exposing" />
+    <form id="9" text="exposed" />
+  </verb>
+  <verb id="fail">
+    <form id="1" text="fail" />
+    <form id="2" text="fail" />
+    <form id="3" text="fails" />
+    <form id="4" text="fail" />
+    <form id="5" text="failed" />
+    <form id="6" text="failed" />
+    <form id="7" text="failed" />
+    <form id="8" text="failing" />
+    <form id="9" text="failed" />
+  </verb>
+  <verb id="fall">
+    <form id="1" text="fall" />
+    <form id="2" text="fall" />
+    <form id="3" text="falls" />
+    <form id="4" text="fall" />
+    <form id="5" text="fell" />
+    <form id="6" text="fell" />
+    <form id="7" text="fell" />
+    <form id="8" text="falling" />
+    <form id="9" text="fallen" />
+  </verb>
+  <verb id="feed">
+    <form id="1" text="feed" />
+    <form id="2" text="feed" />
+    <form id="3" text="feeds" />
+    <form id="4" text="feed" />
+    <form id="5" text="fed" />
+    <form id="6" text="fed" />
+    <form id="7" text="fed" />
+    <form id="8" text="feeding" />
+    <form id="9" text="fed" />
+  </verb>
+  <verb id="feel">
+    <form id="1" text="feel" />
+    <form id="2" text="feel" />
+    <form id="3" text="feels" />
+    <form id="4" text="feel" />
+    <form id="5" text="felt" />
+    <form id="6" text="felt" />
+    <form id="7" text="felt" />
+    <form id="8" text="feeling" />
+    <form id="9" text="felt" />
+  </verb>
+  <verb id="fight">
+    <form id="1" text="fight" />
+    <form id="2" text="fight" />
+    <form id="3" text="fights" />
+    <form id="4" text="fight" />
+    <form id="5" text="fought" />
+    <form id="6" text="fought" />
+    <form id="7" text="fought" />
+    <form id="8" text="fighting" />
+    <form id="9" text="fought" />
+  </verb>
+  <verb id="find">
+    <form id="1" text="find" />
+    <form id="2" text="find" />
+    <form id="3" text="finds" />
+    <form id="4" text="find" />
+    <form id="5" text="found" />
+    <form id="6" text="found" />
+    <form id="7" text="found" />
+    <form id="8" text="finding" />
+    <form id="9" text="found" />
+  </verb>
+  <verb id="flee">
+    <form id="1" text="flee" />
+    <form id="2" text="flee" />
+    <form id="3" text="flees" />
+    <form id="4" text="flee" />
+    <form id="5" text="fled" />
+    <form id="6" text="fled" />
+    <form id="7" text="fled" />
+    <form id="8" text="fleeing" />
+    <form id="9" text="fled" />
+  </verb>
+  <verb id="fling">
+    <form id="1" text="fling" />
+    <form id="2" text="fling" />
+    <form id="3" text="flings" />
+    <form id="4" text="fling" />
+    <form id="5" text="flung" />
+    <form id="6" text="flung" />
+    <form id="7" text="flung" />
+    <form id="8" text="flinging" />
+    <form id="9" text="flung" />
+  </verb>
+  <verb id="fly">
+    <form id="1" text="fly" />
+    <form id="2" text="fly" />
+    <form id="3" text="flies" />
+    <form id="4" text="fly" />
+    <form id="5" text="flew" />
+    <form id="6" text="flew" />
+    <form id="7" text="flew" />
+    <form id="8" text="flying" />
+    <form id="9" text="flown" />
+  </verb>
+  <verb id="forbear">
+    <form id="1" text="forbear" />
+    <form id="2" text="forbear" />
+    <form id="3" text="forbears" />
+    <form id="4" text="forbear" />
+    <form id="5" text="forborne" />
+    <form id="6" text="forborne" />
+    <form id="7" text="forborne" />
+    <form id="8" text="forbearing" />
+    <form id="9" text="forborne" />
+  </verb>
+  <verb id="forbid">
+    <form id="1" text="forbid" />
+    <form id="2" text="forbid" />
+    <form id="3" text="forbids" />
+    <form id="4" text="forbid" />
+    <form id="5" text="forbade" />
+    <form id="6" text="forbade" />
+    <form id="7" text="forbade" />
+    <form id="8" text="forbidding" />
+    <form id="9" text="forbidden" />
+  </verb>
+  <verb id="forget">
+    <form id="1" text="forget" />
+    <form id="2" text="forget" />
+    <form id="3" text="forgets" />
+    <form id="4" text="forget" />
+    <form id="5" text="forgot" />
+    <form id="6" text="forgot" />
+    <form id="7" text="forgot" />
+    <form id="8" text="forgetting" />
+    <form id="9" text="forgotten" />
+  </verb>
+  <verb id="forgive">
+    <form id="1" text="forgive" />
+    <form id="2" text="forgive" />
+    <form id="3" text="forgives" />
+    <form id="4" text="forgive" />
+    <form id="5" text="forgave" />
+    <form id="6" text="forgave" />
+    <form id="7" text="forgave" />
+    <form id="8" text="forgiving" />
+    <form id="9" text="forgiven" />
+  </verb>
+  <verb id="forsake">
+    <form id="1" text="forsake" />
+    <form id="2" text="forsake" />
+    <form id="3" text="forsakes" />
+    <form id="4" text="forsake" />
+    <form id="5" text="forsook" />
+    <form id="6" text="forsook" />
+    <form id="7" text="forsook" />
+    <form id="8" text="forsaking" />
+    <form id="9" text="forsaken" />
+  </verb>
+  <verb id="freeze">
+    <form id="1" text="freeze" />
+    <form id="2" text="freeze" />
+    <form id="3" text="freezes" />
+    <form id="4" text="freeze" />
+    <form id="5" text="froze" />
+    <form id="6" text="froze" />
+    <form id="7" text="froze" />
+    <form id="8" text="freezing" />
+    <form id="9" text="frozen" />
+  </verb>
+  <verb id="fulfil">
+    <form id="1" text="fulfil" />
+    <form id="2" text="fulfil" />
+    <form id="3" text="fulfils" />
+    <form id="4" text="fulfil" />
+    <form id="5" text="fulfilled" />
+    <form id="6" text="fulfilled" />
+    <form id="7" text="fulfilled" />
+    <form id="8" text="fulfilling" />
+    <form id="9" text="fulfilled" />
+  </verb>
+  <verb id="fulfill">
+    <form id="1" text="fulfill" />
+    <form id="2" text="fulfill" />
+    <form id="3" text="fulfills" />
+    <form id="4" text="fulfill" />
+    <form id="5" text="fulfilled" />
+    <form id="6" text="fulfilled" />
+    <form id="7" text="fulfilled" />
+    <form id="8" text="fulfilling" />
+    <form id="9" text="fulfilled" />
+  </verb>
+  <verb id="generate">
+    <form id="1" text="generate" />
+    <form id="2" text="generate" />
+    <form id="3" text="generates" />
+    <form id="4" text="generate" />
+    <form id="5" text="generated" />
+    <form id="6" text="generated" />
+    <form id="7" text="generated" />
+    <form id="8" text="generating" />
+    <form id="9" text="generated" />
+  </verb>
+  <verb id="get">
+    <form id="1" text="get" />
+    <form id="2" text="get" />
+    <form id="3" text="gets" />
+    <form id="4" text="get" />
+    <form id="5" text="got" />
+    <form id="6" text="got" />
+    <form id="7" text="got" />
+    <form id="8" text="getting" />
+    <form id="9" text="gotten" />
+  </verb>
+  <verb id="gird">
+    <form id="1" text="gird" />
+    <form id="2" text="gird" />
+    <form id="3" text="girds" />
+    <form id="4" text="gird" />
+    <form id="5" text="girded" />
+    <form id="6" text="girded" />
+    <form id="7" text="girded" />
+    <form id="8" text="girding" />
+    <form id="9" text="girded" />
+  </verb>
+  <verb id="give">
+    <form id="1" text="give" />
+    <form id="2" text="give" />
+    <form id="3" text="gives" />
+    <form id="4" text="give" />
+    <form id="5" text="gave" />
+    <form id="6" text="gave" />
+    <form id="7" text="gave" />
+    <form id="8" text="giving" />
+    <form id="9" text="given" />
+  </verb>
+  <verb id="go">
+    <form id="1" text="go" />
+    <form id="2" text="go" />
+    <form id="3" text="goes" />
+    <form id="4" text="go" />
+    <form id="5" text="went" />
+    <form id="6" text="went" />
+    <form id="7" text="went" />
+    <form id="8" text="going" />
+    <form id="9" text="gone" />
+  </verb>
+  <verb id="grind">
+    <form id="1" text="grind" />
+    <form id="2" text="grind" />
+    <form id="3" text="grinds" />
+    <form id="4" text="grind" />
+    <form id="5" text="ground" />
+    <form id="6" text="ground" />
+    <form id="7" text="ground" />
+    <form id="8" text="grinding" />
+    <form id="9" text="ground" />
+  </verb>
+  <verb id="grow">
+    <form id="1" text="grow" />
+    <form id="2" text="grow" />
+    <form id="3" text="grows" />
+    <form id="4" text="grow" />
+    <form id="5" text="grew" />
+    <form id="6" text="grew" />
+    <form id="7" text="grew" />
+    <form id="8" text="growing" />
+    <form id="9" text="grown" />
+  </verb>
+  <verb id="halt">
+    <form id="1" text="halt" />
+    <form id="2" text="halt" />
+    <form id="3" text="halts" />
+    <form id="4" text="halt" />
+    <form id="5" text="halted" />
+    <form id="6" text="halted" />
+    <form id="7" text="halted" />
+    <form id="8" text="halting" />
+    <form id="9" text="halted" />
+  </verb>
+  <verb id="hang">
+    <form id="1" text="hang" />
+    <form id="2" text="hang" />
+    <form id="3" text="hangs" />
+    <form id="4" text="hang" />
+    <form id="5" text="hung" />
+    <form id="6" text="hung" />
+    <form id="7" text="hung" />
+    <form id="8" text="hanging" />
+    <form id="9" text="hung" />
+  </verb>
+  <verb id="happen">
+    <form id="1" text="happen" />
+    <form id="2" text="happen" />
+    <form id="3" text="happens" />
+    <form id="4" text="happen" />
+    <form id="5" text="happened" />
+    <form id="6" text="happened" />
+    <form id="7" text="happened" />
+    <form id="8" text="happening" />
+    <form id="9" text="happened" />
+  </verb>
+  <verb id="have">
+    <form id="1" text="have" />
+    <form id="2" text="have" />
+    <form id="3" text="has" />
+    <form id="4" text="have" />
+    <form id="5" text="had" />
+    <form id="6" text="had" />
+    <form id="7" text="had" />
+    <form id="8" text="having" />
+    <form id="9" text="had" />
+  </verb>
+  <verb id="hear">
+    <form id="1" text="hear" />
+    <form id="2" text="hear" />
+    <form id="3" text="hears" />
+    <form id="4" text="hear" />
+    <form id="5" text="heard" />
+    <form id="6" text="heard" />
+    <form id="7" text="heard" />
+    <form id="8" text="hearing" />
+    <form id="9" text="heard" />
+  </verb>
+  <verb id="hew">
+    <form id="1" text="hew" />
+    <form id="2" text="hew" />
+    <form id="3" text="hews" />
+    <form id="4" text="hew" />
+    <form id="5" text="hewed" />
+    <form id="6" text="hewed" />
+    <form id="7" text="hewed" />
+    <form id="8" text="hewing" />
+    <form id="9" text="hewed" />
+  </verb>
+  <verb id="hide">
+    <form id="1" text="hide" />
+    <form id="2" text="hide" />
+    <form id="3" text="hides" />
+    <form id="4" text="hide" />
+    <form id="5" text="hid" />
+    <form id="6" text="hid" />
+    <form id="7" text="hid" />
+    <form id="8" text="hiding" />
+    <form id="9" text="hidden" />
+  </verb>
+  <verb id="hit">
+    <form id="1" text="hit" />
+    <form id="2" text="hit" />
+    <form id="3" text="hits" />
+    <form id="4" text="hit" />
+    <form id="5" text="hit" />
+    <form id="6" text="hit" />
+    <form id="7" text="hit" />
+    <form id="8" text="hitting" />
+    <form id="9" text="hit" />
+  </verb>
+  <verb id="hire">
+    <form id="1" text="hire" />
+    <form id="2" text="hire" />
+    <form id="3" text="hires" />
+    <form id="4" text="hire" />
+    <form id="5" text="hired" />
+    <form id="6" text="hired" />
+    <form id="7" text="hired" />
+    <form id="8" text="hiring" />
+    <form id="9" text="hired" />
+  </verb>
+  <verb id="hold">
+    <form id="1" text="hold" />
+    <form id="2" text="hold" />
+    <form id="3" text="holds" />
+    <form id="4" text="hold" />
+    <form id="5" text="held" />
+    <form id="6" text="held" />
+    <form id="7" text="held" />
+    <form id="8" text="holding" />
+    <form id="9" text="held" />
+  </verb>
+  <verb id="hurt">
+    <form id="1" text="hurt" />
+    <form id="2" text="hurt" />
+    <form id="3" text="hurts" />
+    <form id="4" text="hurt" />
+    <form id="5" text="hurt" />
+    <form id="6" text="hurt" />
+    <form id="7" text="hurt" />
+    <form id="8" text="hurting" />
+    <form id="9" text="hurt" />
+  </verb>
+  <verb id="identify">
+    <form id="1" text="identify" />
+    <form id="2" text="identify" />
+    <form id="3" text="identifies" />
+    <form id="4" text="identify" />
+    <form id="5" text="identified" />
+    <form id="6" text="identified" />
+    <form id="7" text="identified" />
+    <form id="8" text="identifying" />
+    <form id="9" text="identified" />
+  </verb>
+  <verb id="immobilize">
+    <form id="1" text="immobilize" />
+    <form id="2" text="immobilize" />
+    <form id="3" text="immobilizes" />
+    <form id="4" text="immobilize" />
+    <form id="5" text="immobilized" />
+    <form id="6" text="immobilized" />
+    <form id="7" text="immobilized" />
+    <form id="8" text="immobilizing" />
+    <form id="9" text="immobilized" />
+  </verb>
+  <verb id="implement">
+    <form id="1" text="implement" />
+    <form id="2" text="implement" />
+    <form id="3" text="implements" />
+    <form id="4" text="implement" />
+    <form id="5" text="implemented" />
+    <form id="6" text="implemented" />
+    <form id="7" text="implemented" />
+    <form id="8" text="implementing" />
+    <form id="9" text="implemented" />
+  </verb>
+  <verb id="incapacitate">
+    <form id="1" text="incapacitate" />
+    <form id="2" text="incapacitate" />
+    <form id="3" text="incapacitates" />
+    <form id="4" text="incapacitate" />
+    <form id="5" text="incapacitated" />
+    <form id="6" text="incapacitated" />
+    <form id="7" text="incapacitated" />
+    <form id="8" text="incapacitated" />
+    <form id="9" text="incapacitated" />
+  </verb>
+  <verb id="include">
+    <form id="1" text="include" />
+    <form id="2" text="include" />
+    <form id="3" text="includes" />
+    <form id="4" text="include" />
+    <form id="5" text="included" />
+    <form id="6" text="included" />
+    <form id="7" text="included" />
+    <form id="8" text="including" />
+    <form id="9" text="included" />
+  </verb>
+  <verb id="increase">
+    <form id="1" text="increase" />
+    <form id="2" text="increase" />
+    <form id="3" text="increases" />
+    <form id="4" text="increase" />
+    <form id="5" text="increased" />
+    <form id="6" text="increased" />
+    <form id="7" text="increased" />
+    <form id="8" text="increasing" />
+    <form id="9" text="increased" />
+  </verb>
+  <verb id="incur">
+    <form id="1" text="incur" />
+    <form id="2" text="incur" />
+    <form id="3" text="incurs" />
+    <form id="4" text="incur" />
+    <form id="5" text="incurred" />
+    <form id="6" text="incurred" />
+    <form id="7" text="incurred" />
+    <form id="8" text="incurring" />
+    <form id="9" text="incurred" />
+  </verb>
+  <verb id="indicate">
+    <form id="1" text="indicate" />
+    <form id="2" text="indicate" />
+    <form id="3" text="indicates" />
+    <form id="4" text="indicate" />
+    <form id="5" text="indicated" />
+    <form id="6" text="indicated" />
+    <form id="7" text="indicated" />
+    <form id="8" text="indicating" />
+    <form id="9" text="indicated" />
+  </verb>
+  <verb id="induce">
+    <form id="1" text="induce" />
+    <form id="2" text="induce" />
+    <form id="3" text="induces" />
+    <form id="4" text="induce" />
+    <form id="5" text="induced" />
+    <form id="6" text="induced" />
+    <form id="7" text="induced" />
+    <form id="8" text="inducing" />
+    <form id="9" text="induced" />
+  </verb>
+  <verb id="inflict">
+    <form id="1" text="inflict" />
+    <form id="2" text="inflict" />
+    <form id="3" text="inflicts" />
+    <form id="4" text="inflict" />
+    <form id="5" text="inflicted" />
+    <form id="6" text="inflicted" />
+    <form id="7" text="inflicted" />
+    <form id="8" text="inflicting" />
+    <form id="9" text="inflicted" />
+  </verb>
+  <verb id="inform">
+    <form id="1" text="inform" />
+    <form id="2" text="inform" />
+    <form id="3" text="informs" />
+    <form id="4" text="inform" />
+    <form id="5" text="informed" />
+    <form id="6" text="informed" />
+    <form id="7" text="informed" />
+    <form id="8" text="informing" />
+    <form id="9" text="informed" />
+  </verb>
+  <verb id="ingest">
+    <form id="1" text="ingest" />
+    <form id="2" text="ingest" />
+    <form id="3" text="ingests" />
+    <form id="4" text="ingest" />
+    <form id="5" text="ingested" />
+    <form id="6" text="ingested" />
+    <form id="7" text="ingested" />
+    <form id="8" text="ingesting" />
+    <form id="9" text="ingested" />
+  </verb>
+  <verb id="inhale">
+    <form id="1" text="inhale" />
+    <form id="2" text="inhale" />
+    <form id="3" text="inhales" />
+    <form id="4" text="inhale" />
+    <form id="5" text="inhaled" />
+    <form id="6" text="inhaled" />
+    <form id="7" text="inhaled" />
+    <form id="8" text="inhaling" />
+    <form id="9" text="inhaled" />
+  </verb>
+  <verb id="injure">
+    <form id="1" text="injure" />
+    <form id="2" text="injure" />
+    <form id="3" text="injures" />
+    <form id="4" text="injure" />
+    <form id="5" text="injured" />
+    <form id="6" text="injured" />
+    <form id="7" text="injured" />
+    <form id="8" text="injuring" />
+    <form id="9" text="injured" />
+  </verb>
+  <verb id="inoculate">
+    <form id="1" text="inoculate" />
+    <form id="2" text="inoculate" />
+    <form id="3" text="inoculates" />
+    <form id="4" text="inoculate" />
+    <form id="5" text="inoculated" />
+    <form id="6" text="inoculated" />
+    <form id="7" text="inoculated" />
+    <form id="8" text="inoculating" />
+    <form id="9" text="inoculated" />
+  </verb>
+  <verb id="instruct">
+    <form id="1" text="instruct" />
+    <form id="2" text="instruct" />
+    <form id="3" text="instructs" />
+    <form id="4" text="instruct" />
+    <form id="5" text="instructed" />
+    <form id="6" text="instructed" />
+    <form id="7" text="instructed" />
+    <form id="8" text="instructing" />
+    <form id="9" text="instructed" />
+  </verb>
+  <verb id="insure">
+    <form id="1" text="insure" />
+    <form id="2" text="insure" />
+    <form id="3" text="insures" />
+    <form id="4" text="insure" />
+    <form id="5" text="insured" />
+    <form id="6" text="insured" />
+    <form id="7" text="insured" />
+    <form id="8" text="insuring" />
+    <form id="9" text="insured" />
+  </verb>
+  <verb id="intend">
+    <form id="1" text="intend" />
+    <form id="2" text="intend" />
+    <form id="3" text="intends" />
+    <form id="4" text="intend" />
+    <form id="5" text="intended" />
+    <form id="6" text="intended" />
+    <form id="7" text="intended" />
+    <form id="8" text="intending" />
+    <form id="9" text="intended" />
+  </verb>
+  <verb id="invest">
+    <form id="1" text="invest" />
+    <form id="2" text="invest" />
+    <form id="3" text="invests" />
+    <form id="4" text="invest" />
+    <form id="5" text="invested" />
+    <form id="6" text="invested" />
+    <form id="7" text="invested" />
+    <form id="8" text="investing" />
+    <form id="9" text="invested" />
+  </verb>
+  <verb id="investigate">
+    <form id="1" text="investigate" />
+    <form id="2" text="investigate" />
+    <form id="3" text="investigates" />
+    <form id="4" text="investigate" />
+    <form id="5" text="investigated" />
+    <form id="6" text="investigated" />
+    <form id="7" text="investigated" />
+    <form id="8" text="investigating" />
+    <form id="9" text="investigated" />
+  </verb>
+  <verb id="involve">
+    <form id="1" text="involve" />
+    <form id="2" text="involve" />
+    <form id="3" text="involves" />
+    <form id="4" text="involve" />
+    <form id="5" text="involved" />
+    <form id="6" text="involved" />
+    <form id="7" text="involved" />
+    <form id="8" text="involving" />
+    <form id="9" text="involved" />
+  </verb>
+  <verb id="jump">
+    <form id="1" text="jump" />
+    <form id="2" text="jump" />
+    <form id="3" text="jumps" />
+    <form id="4" text="jump" />
+    <form id="5" text="jumped" />
+    <form id="6" text="jumped" />
+    <form id="7" text="jumped" />
+    <form id="8" text="jumping" />
+    <form id="9" text="jumped" />
+  </verb>
+  <verb id="keep">
+    <form id="1" text="keep" />
+    <form id="2" text="keep" />
+    <form id="3" text="keeps" />
+    <form id="4" text="keep" />
+    <form id="5" text="kept" />
+    <form id="6" text="kept" />
+    <form id="7" text="kept" />
+    <form id="8" text="keeping" />
+    <form id="9" text="kept" />
+  </verb>
+  <verb id="kneel">
+    <form id="1" text="kneel" />
+    <form id="2" text="kneel" />
+    <form id="3" text="kneels" />
+    <form id="4" text="kneel" />
+    <form id="5" text="kneeled" />
+    <form id="6" text="kneeled" />
+    <form id="7" text="kneeled" />
+    <form id="8" text="kneeling" />
+    <form id="9" text="kneeled" />
+  </verb>
+  <verb id="knit">
+    <form id="1" text="knit" />
+    <form id="2" text="knit" />
+    <form id="3" text="knits" />
+    <form id="4" text="knit" />
+    <form id="5" text="knitted" />
+    <form id="6" text="knitted" />
+    <form id="7" text="knitted" />
+    <form id="8" text="knitting" />
+    <form id="9" text="knitted" />
+  </verb>
+  <verb id="know">
+    <form id="1" text="know" />
+    <form id="2" text="know" />
+    <form id="3" text="knows" />
+    <form id="4" text="know" />
+    <form id="5" text="knew" />
+    <form id="6" text="knew" />
+    <form id="7" text="knew" />
+    <form id="8" text="knowing" />
+    <form id="9" text="known" />
+  </verb>
+  <verb id="last">
+    <form id="1" text="last" />
+    <form id="2" text="last" />
+    <form id="3" text="lasts" />
+    <form id="4" text="last" />
+    <form id="5" text="lasted" />
+    <form id="6" text="lasted" />
+    <form id="7" text="lasted" />
+    <form id="8" text="lasting" />
+    <form id="9" text="lasted" />
+  </verb>
+  <verb id="lay">
+    <form id="1" text="lay" />
+    <form id="2" text="lay" />
+    <form id="3" text="lay" />
+    <form id="4" text="lay" />
+    <form id="5" text="laid" />
+    <form id="6" text="laid" />
+    <form id="7" text="laid" />
+    <form id="8" text="laying" />
+    <form id="9" text="laid" />
+  </verb>
+  <verb id="lead">
+    <form id="1" text="lead" />
+    <form id="2" text="lead" />
+    <form id="3" text="leads" />
+    <form id="4" text="lead" />
+    <form id="5" text="led" />
+    <form id="6" text="led" />
+    <form id="7" text="led" />
+    <form id="8" text="leading" />
+    <form id="9" text="led" />
+  </verb>
+  <verb id="lean">
+    <form id="1" text="lean" />
+    <form id="2" text="lean" />
+    <form id="3" text="leans" />
+    <form id="4" text="lean" />
+    <form id="5" text="leaned" />
+    <form id="6" text="leaned" />
+    <form id="7" text="leaned" />
+    <form id="8" text="leaning" />
+    <form id="9" text="leaned" />
+  </verb>
+  <verb id="leap">
+    <form id="1" text="leap" />
+    <form id="2" text="leap" />
+    <form id="3" text="leaps" />
+    <form id="4" text="leap" />
+    <form id="5" text="leapt" />
+    <form id="6" text="leapt" />
+    <form id="7" text="leapt" />
+    <form id="8" text="leaping" />
+    <form id="9" text="leapt" />
+  </verb>
+  <verb id="learn">
+    <form id="1" text="learn" />
+    <form id="2" text="learn" />
+    <form id="3" text="learns" />
+    <form id="4" text="learn" />
+    <form id="5" text="learned" />
+    <form id="6" text="learned" />
+    <form id="7" text="learned" />
+    <form id="8" text="learning" />
+    <form id="9" text="learned" />
+  </verb>
+  <verb id="leave">
+    <form id="1" text="leave" />
+    <form id="2" text="leave" />
+    <form id="3" text="leaves" />
+    <form id="4" text="leave" />
+    <form id="5" text="left" />
+    <form id="6" text="left" />
+    <form id="7" text="left" />
+    <form id="8" text="leaving" />
+    <form id="9" text="left" />
+  </verb>
+  <verb id="lend">
+    <form id="1" text="lend" />
+    <form id="2" text="lend" />
+    <form id="3" text="lends" />
+    <form id="4" text="lend" />
+    <form id="5" text="lent" />
+    <form id="6" text="lent" />
+    <form id="7" text="lent" />
+    <form id="8" text="lending" />
+    <form id="9" text="lent" />
+  </verb>
+  <verb id="let">
+    <form id="1" text="let" />
+    <form id="2" text="let" />
+    <form id="3" text="lets" />
+    <form id="4" text="let" />
+    <form id="5" text="let" />
+    <form id="6" text="let" />
+    <form id="7" text="let" />
+    <form id="8" text="letting" />
+    <form id="9" text="let" />
+  </verb>
+  <verb id="lie">
+    <form id="1" text="lie" />
+    <form id="2" text="lie" />
+    <form id="3" text="lies" />
+    <form id="4" text="lie" />
+    <form id="5" text="lied" />
+    <form id="6" text="lied" />
+    <form id="7" text="lied" />
+    <form id="8" text="lying" />
+    <form id="9" text="lied" />
+  </verb>
+  <verb id="light">
+    <form id="1" text="light" />
+    <form id="2" text="light" />
+    <form id="3" text="lights" />
+    <form id="4" text="light" />
+    <form id="5" text="lit" />
+    <form id="6" text="lit" />
+    <form id="7" text="lit" />
+    <form id="8" text="lighting" />
+    <form id="9" text="lit" />
+  </verb>
+  <verb id="like">
+    <form id="1" text="like" />
+    <form id="2" text="like" />
+    <form id="3" text="likes" />
+    <form id="4" text="like" />
+    <form id="5" text="liked" />
+    <form id="6" text="liked" />
+    <form id="7" text="liked" />
+    <form id="8" text="liking" />
+    <form id="9" text="liked" />
+  </verb>
+  <verb id="limit">
+    <form id="1" text="limit" />
+    <form id="2" text="limit" />
+    <form id="3" text="limits" />
+    <form id="4" text="limit" />
+    <form id="5" text="limited" />
+    <form id="6" text="limited" />
+    <form id="7" text="limited" />
+    <form id="8" text="limiting" />
+    <form id="9" text="limited" />
+  </verb>
+  <verb id="list">
+    <form id="1" text="list" />
+    <form id="2" text="list" />
+    <form id="3" text="lists" />
+    <form id="4" text="list" />
+    <form id="5" text="listed" />
+    <form id="6" text="listed" />
+    <form id="7" text="listed" />
+    <form id="8" text="listing" />
+    <form id="9" text="listed" />
+  </verb>
+  <verb id="live">
+    <form id="1" text="live" />
+    <form id="2" text="live" />
+    <form id="3" text="lives" />
+    <form id="4" text="live" />
+    <form id="5" text="lived" />
+    <form id="6" text="lived" />
+    <form id="7" text="lived" />
+    <form id="8" text="living" />
+    <form id="9" text="lived" />
+  </verb>
+  <verb id="lodge">
+    <form id="1" text="lodge" />
+    <form id="2" text="lodge" />
+    <form id="3" text="lodges" />
+    <form id="4" text="lodge" />
+    <form id="5" text="lodged" />
+    <form id="6" text="lodged" />
+    <form id="7" text="lodged" />
+    <form id="8" text="lodging" />
+    <form id="9" text="lodged" />
+  </verb>
+  <verb id="lose">
+    <form id="1" text="lose" />
+    <form id="2" text="lose" />
+    <form id="3" text="loses" />
+    <form id="4" text="lose" />
+    <form id="5" text="lost" />
+    <form id="6" text="lost" />
+    <form id="7" text="lost" />
+    <form id="8" text="losing" />
+    <form id="9" text="lost" />
+  </verb>
+  <verb id="maintain">
+    <form id="1" text="maintain" />
+    <form id="2" text="maintain" />
+    <form id="3" text="maintains" />
+    <form id="4" text="maintain" />
+    <form id="5" text="maintained" />
+    <form id="6" text="maintained" />
+    <form id="7" text="maintained" />
+    <form id="8" text="maintaining" />
+    <form id="9" text="maintained" />
+  </verb>
+  <verb id="make">
+    <form id="1" text="make" />
+    <form id="2" text="make" />
+    <form id="3" text="makes" />
+    <form id="4" text="make" />
+    <form id="5" text="made" />
+    <form id="6" text="made" />
+    <form id="7" text="made" />
+    <form id="8" text="making" />
+    <form id="9" text="made" />
+  </verb>
+  <verb id="marry">
+    <form id="1" text="marry" />
+    <form id="2" text="marry" />
+    <form id="3" text="marries" />
+    <form id="4" text="marry" />
+    <form id="5" text="married" />
+    <form id="6" text="married" />
+    <form id="7" text="married" />
+    <form id="8" text="marrying" />
+    <form id="9" text="married" />
+  </verb>
+  <verb id="mean">
+    <form id="1" text="mean" />
+    <form id="2" text="mean" />
+    <form id="3" text="means" />
+    <form id="4" text="mean" />
+    <form id="5" text="meant" />
+    <form id="6" text="meant" />
+    <form id="7" text="meant" />
+    <form id="8" text="meaning" />
+    <form id="9" text="meant" />
+  </verb>
+  <verb id="meet">
+    <form id="1" text="meet" />
+    <form id="2" text="meet" />
+    <form id="3" text="meets" />
+    <form id="4" text="meet" />
+    <form id="5" text="met" />
+    <form id="6" text="met" />
+    <form id="7" text="met" />
+    <form id="8" text="meeting" />
+    <form id="9" text="met" />
+  </verb>
+  <verb id="miss">
+    <form id="1" text="miss" />
+    <form id="2" text="miss" />
+    <form id="3" text="misses" />
+    <form id="4" text="miss" />
+    <form id="5" text="missed" />
+    <form id="6" text="missed" />
+    <form id="7" text="missed" />
+    <form id="8" text="missing" />
+    <form id="9" text="missed" />
+  </verb>
+  <verb id="mow">
+    <form id="1" text="mow" />
+    <form id="2" text="mow" />
+    <form id="3" text="mows" />
+    <form id="4" text="mow" />
+    <form id="5" text="mowed" />
+    <form id="6" text="mowed" />
+    <form id="7" text="mowed" />
+    <form id="8" text="mowing" />
+    <form id="9" text="mowed" />
+  </verb>
+  <verb id="murder">
+    <form id="1" text="murder" />
+    <form id="2" text="murder" />
+    <form id="3" text="murders" />
+    <form id="4" text="murder" />
+    <form id="5" text="murdered" />
+    <form id="6" text="murdered" />
+    <form id="7" text="murdered" />
+    <form id="8" text="murdering" />
+    <form id="9" text="murdered" />
+  </verb>
+  <verb id="need">
+    <form id="1" text="need" />
+    <form id="2" text="need" />
+    <form id="3" text="needs" />
+    <form id="4" text="need" />
+    <form id="5" text="needed" />
+    <form id="6" text="needed" />
+    <form id="7" text="needed" />
+    <form id="8" text="needing" />
+    <form id="9" text="needed" />
+  </verb>
+  <verb id="oblige">
+    <form id="1" text="oblige" />
+    <form id="2" text="oblige" />
+    <form id="3" text="obliges" />
+    <form id="4" text="oblige" />
+    <form id="5" text="obliged" />
+    <form id="6" text="obliged" />
+    <form id="7" text="obliged" />
+    <form id="8" text="obliging" />
+    <form id="9" text="obliged" />
+  </verb>
+  <verb id="obtain">
+    <form id="1" text="obtain" />
+    <form id="2" text="obtain" />
+    <form id="3" text="obtains" />
+    <form id="4" text="obtain" />
+    <form id="5" text="obtained" />
+    <form id="6" text="obtained" />
+    <form id="7" text="obtained" />
+    <form id="8" text="obtaining" />
+    <form id="9" text="obtained" />
+  </verb>
+  <verb id="occur">
+    <form id="1" text="occur" />
+    <form id="2" text="occur" />
+    <form id="3" text="occurs" />
+    <form id="4" text="occur" />
+    <form id="5" text="occurred" />
+    <form id="6" text="occurred" />
+    <form id="7" text="occurred" />
+    <form id="8" text="occurring" />
+    <form id="9" text="occurred" />
+  </verb>
+  <verb id="override">
+    <form id="1" text="override" />
+    <form id="2" text="override" />
+    <form id="3" text="overrides" />
+    <form id="4" text="override" />
+    <form id="5" text="overrode" />
+    <form id="6" text="overrode" />
+    <form id="7" text="overrode" />
+    <form id="8" text="overriding" />
+    <form id="9" text="overridden" />
+  </verb>
+  <verb id="participate">
+    <form id="1" text="participate" />
+    <form id="2" text="participate" />
+    <form id="3" text="participates" />
+    <form id="4" text="participate" />
+    <form id="5" text="participated" />
+    <form id="6" text="participated" />
+    <form id="7" text="participated" />
+    <form id="8" text="participating" />
+    <form id="9" text="participated" />
+  </verb>
+  <verb id="pass">
+    <form id="1" text="pass" />
+    <form id="2" text="pass" />
+    <form id="3" text="passes" />
+    <form id="4" text="pass" />
+    <form id="5" text="passed" />
+    <form id="6" text="passed" />
+    <form id="7" text="passed" />
+    <form id="8" text="passing" />
+    <form id="9" text="passed" />
+  </verb>
+  <verb id="pay">
+    <form id="1" text="pay" />
+    <form id="2" text="pay" />
+    <form id="3" text="pays" />
+    <form id="4" text="pay" />
+    <form id="5" text="paid" />
+    <form id="6" text="paid" />
+    <form id="7" text="paid" />
+    <form id="8" text="paying" />
+    <form id="9" text="paid" />
+  </verb>
+  <verb id="perform">
+    <form id="1" text="perform" />
+    <form id="2" text="perform" />
+    <form id="3" text="performs" />
+    <form id="4" text="perform" />
+    <form id="5" text="performed" />
+    <form id="6" text="performed" />
+    <form id="7" text="performed" />
+    <form id="8" text="performing" />
+    <form id="9" text="performed" />
+  </verb>
+  <verb id="permit">
+    <form id="1" text="permit" />
+    <form id="2" text="permit" />
+    <form id="3" text="permits" />
+    <form id="4" text="permit" />
+    <form id="5" text="permitted" />
+    <form id="6" text="permitted" />
+    <form id="7" text="permitted" />
+    <form id="8" text="permitting" />
+    <form id="9" text="permitted" />
+  </verb>
+  <verb id="persist">
+    <form id="1" text="persist" />
+    <form id="2" text="persist" />
+    <form id="3" text="persists" />
+    <form id="4" text="persist" />
+    <form id="5" text="persisted" />
+    <form id="6" text="persisted" />
+    <form id="7" text="persisted" />
+    <form id="8" text="persisting" />
+    <form id="9" text="persisted" />
+  </verb>
+  <verb id="place">
+    <form id="1" text="place" />
+    <form id="2" text="place" />
+    <form id="3" text="places" />
+    <form id="4" text="place" />
+    <form id="5" text="placed" />
+    <form id="6" text="placed" />
+    <form id="7" text="placed" />
+    <form id="8" text="placing" />
+    <form id="9" text="placed" />
+  </verb>
+  <verb id="preclude">
+    <form id="1" text="preclude" />
+    <form id="2" text="preclude" />
+    <form id="3" text="precludes" />
+    <form id="4" text="preclude" />
+    <form id="5" text="precluded" />
+    <form id="6" text="precluded" />
+    <form id="7" text="precluded" />
+    <form id="8" text="precluding" />
+    <form id="9" text="precluded" />
+  </verb>
+  <verb id="predate">
+    <form id="1" text="predate" />
+    <form id="2" text="predate" />
+    <form id="3" text="predates" />
+    <form id="4" text="predate" />
+    <form id="5" text="predated" />
+    <form id="6" text="predated" />
+    <form id="7" text="predated" />
+    <form id="8" text="predating" />
+    <form id="9" text="predated" />
+  </verb>
+  <verb id="prepay">
+    <form id="1" text="prepay" />
+    <form id="2" text="prepay" />
+    <form id="3" text="prepays" />
+    <form id="4" text="prepay" />
+    <form id="5" text="prepaid" />
+    <form id="6" text="prepaid" />
+    <form id="7" text="prepaid" />
+    <form id="8" text="prepaying" />
+    <form id="9" text="prepaid" />
+  </verb>
+  <verb id="prescribe">
+    <form id="1" text="prescribe" />
+    <form id="2" text="prescribe" />
+    <form id="3" text="prescribes" />
+    <form id="4" text="prescribe" />
+    <form id="5" text="prescribed" />
+    <form id="6" text="prescribed" />
+    <form id="7" text="prescribed" />
+    <form id="8" text="prescribing" />
+    <form id="9" text="prescribed" />
+  </verb>
+  <verb id="present">
+    <form id="1" text="present" />
+    <form id="2" text="present" />
+    <form id="3" text="presents" />
+    <form id="4" text="present" />
+    <form id="5" text="presented" />
+    <form id="6" text="presented" />
+    <form id="7" text="presented" />
+    <form id="8" text="presenting" />
+    <form id="9" text="presented" />
+  </verb>
+  <verb id="presume">
+    <form id="1" text="presume" />
+    <form id="2" text="presume" />
+    <form id="3" text="presumes" />
+    <form id="4" text="presume" />
+    <form id="5" text="presumed" />
+    <form id="6" text="presumed" />
+    <form id="7" text="presumed" />
+    <form id="8" text="presuming" />
+    <form id="9" text="presumed" />
+  </verb>
+  <verb id="prevent">
+    <form id="1" text="prevent" />
+    <form id="2" text="prevent" />
+    <form id="3" text="prevents" />
+    <form id="4" text="prevent" />
+    <form id="5" text="prevented" />
+    <form id="6" text="prevented" />
+    <form id="7" text="prevented" />
+    <form id="8" text="preventing" />
+    <form id="9" text="prevented" />
+  </verb>
+  <verb id="print">
+    <form id="1" text="print" />
+    <form id="2" text="print" />
+    <form id="3" text="prints" />
+    <form id="4" text="print" />
+    <form id="5" text="printed" />
+    <form id="6" text="printed" />
+    <form id="7" text="printed" />
+    <form id="8" text="printing" />
+    <form id="9" text="printed" />
+  </verb>
+  <verb id="proceed">
+    <form id="1" text="proceed" />
+    <form id="2" text="proceed" />
+    <form id="3" text="proceeds" />
+    <form id="4" text="proceed" />
+    <form id="5" text="proceeded" />
+    <form id="6" text="proceeded" />
+    <form id="7" text="proceeded" />
+    <form id="8" text="proceeding" />
+    <form id="9" text="proceeded" />
+  </verb>
+  <verb id="process">
+    <form id="1" text="process" />
+    <form id="2" text="process" />
+    <form id="3" text="processes" />
+    <form id="4" text="process" />
+    <form id="5" text="processed" />
+    <form id="6" text="processed" />
+    <form id="7" text="processed" />
+    <form id="8" text="processing" />
+    <form id="9" text="processed" />
+  </verb>
+  <verb id="prohibit">
+    <form id="1" text="prohibit" />
+    <form id="2" text="prohibit" />
+    <form id="3" text="prohibits" />
+    <form id="4" text="prohibit" />
+    <form id="5" text="prohibited" />
+    <form id="6" text="prohibited" />
+    <form id="7" text="prohibited" />
+    <form id="8" text="prohibiting" />
+    <form id="9" text="prohibited" />
+  </verb>
+  <verb id="prove">
+    <form id="1" text="prove" />
+    <form id="2" text="prove" />
+    <form id="3" text="proves" />
+    <form id="4" text="prove" />
+    <form id="5" text="proved" />
+    <form id="6" text="proved" />
+    <form id="7" text="proved" />
+    <form id="8" text="proving" />
+    <form id="9" text="proven" />
+  </verb>
+  <verb id="provide">
+    <form id="1" text="provide" />
+    <form id="2" text="provide" />
+    <form id="3" text="provides" />
+    <form id="4" text="provide" />
+    <form id="5" text="provided" />
+    <form id="6" text="provided" />
+    <form id="7" text="provided" />
+    <form id="8" text="providing" />
+    <form id="9" text="provided" />
+  </verb>
+  <verb id="purchase">
+    <form id="1" text="purchase" />
+    <form id="2" text="purchase" />
+    <form id="3" text="purchases" />
+    <form id="4" text="purchase" />
+    <form id="5" text="purchased" />
+    <form id="6" text="purchased" />
+    <form id="7" text="purchased" />
+    <form id="8" text="purchasing" />
+    <form id="9" text="purchased" />
+  </verb>
+  <verb id="push">
+    <form id="1" text="push" />
+    <form id="2" text="push" />
+    <form id="3" text="pushes" />
+    <form id="4" text="push" />
+    <form id="5" text="pushed" />
+    <form id="6" text="pushed" />
+    <form id="7" text="pushed" />
+    <form id="8" text="pushing" />
+    <form id="9" text="pushed" />
+  </verb>
+  <verb id="put">
+    <form id="1" text="put" />
+    <form id="2" text="put" />
+    <form id="3" text="puts" />
+    <form id="4" text="put" />
+    <form id="5" text="put" />
+    <form id="6" text="put" />
+    <form id="7" text="put" />
+    <form id="8" text="putting" />
+    <form id="9" text="put" />
+  </verb>
+  <verb id="qualify">
+    <form id="1" text="qualify" />
+    <form id="2" text="qualify" />
+    <form id="3" text="qualifies" />
+    <form id="4" text="qualify" />
+    <form id="5" text="qualified" />
+    <form id="6" text="qualified" />
+    <form id="7" text="qualified" />
+    <form id="8" text="qualifying" />
+    <form id="9" text="qualified" />
+  </verb>
+  <verb id="reach">
+    <form id="1" text="reach" />
+    <form id="2" text="reach" />
+    <form id="3" text="reaches" />
+    <form id="4" text="reach" />
+    <form id="5" text="reached" />
+    <form id="6" text="reached" />
+    <form id="7" text="reached" />
+    <form id="8" text="reaching" />
+    <form id="9" text="reached" />
+  </verb>
+  <verb id="read">
+    <form id="1" text="read" />
+    <form id="2" text="read" />
+    <form id="3" text="reads" />
+    <form id="4" text="read" />
+    <form id="5" text="read" />
+    <form id="6" text="read" />
+    <form id="7" text="read" />
+    <form id="8" text="reading" />
+    <form id="9" text="read" />
+  </verb>
+  <verb id="reassess">
+    <form id="1" text="reassess" />
+    <form id="2" text="reassess" />
+    <form id="3" text="reassesses" />
+    <form id="4" text="reassess" />
+    <form id="5" text="reassessed" />
+    <form id="6" text="reassessed" />
+    <form id="7" text="reassessed" />
+    <form id="8" text="reassessing" />
+    <form id="9" text="reassessed" />
+  </verb>
+  <verb id="receive">
+    <form id="1" text="receive" />
+    <form id="2" text="receive" />
+    <form id="3" text="receives" />
+    <form id="4" text="receive" />
+    <form id="5" text="received" />
+    <form id="6" text="received" />
+    <form id="7" text="received" />
+    <form id="8" text="receiving" />
+    <form id="9" text="received" />
+  </verb>
+  <verb id="reconsider">
+    <form id="1" text="reconsider" />
+    <form id="2" text="reconsider" />
+    <form id="3" text="reconsiders" />
+    <form id="4" text="reconsider" />
+    <form id="5" text="reconsidered" />
+    <form id="6" text="reconsidered" />
+    <form id="7" text="reconsidered" />
+    <form id="8" text="reconsidering" />
+    <form id="9" text="reconsidered" />
+  </verb>
+  <verb id="refer">
+    <form id="1" text="refer" />
+    <form id="2" text="refer" />
+    <form id="3" text="refers" />
+    <form id="4" text="refer" />
+    <form id="5" text="referred" />
+    <form id="6" text="referred" />
+    <form id="7" text="referred" />
+    <form id="8" text="referring" />
+    <form id="9" text="referred" />
+  </verb>
+  <verb id="reflect">
+    <form id="1" text="reflect" />
+    <form id="2" text="reflect" />
+    <form id="3" text="reflects" />
+    <form id="4" text="reflect" />
+    <form id="5" text="reflected" />
+    <form id="6" text="reflected" />
+    <form id="7" text="reflected" />
+    <form id="8" text="reflecting" />
+    <form id="9" text="reflected" />
+  </verb>
+  <verb id="refund">
+    <form id="1" text="refund" />
+    <form id="2" text="refund" />
+    <form id="3" text="refunds" />
+    <form id="4" text="refund" />
+    <form id="5" text="refunded" />
+    <form id="6" text="refunded" />
+    <form id="7" text="refunded" />
+    <form id="8" text="refunding" />
+    <form id="9" text="refunded" />
+  </verb>
+  <verb id="refuse">
+    <form id="1" text="refuse" />
+    <form id="2" text="refuse" />
+    <form id="3" text="refuses" />
+    <form id="4" text="refuse" />
+    <form id="5" text="refused" />
+    <form id="6" text="refused" />
+    <form id="7" text="refused" />
+    <form id="8" text="refusing" />
+    <form id="9" text="refused" />
+  </verb>
+  <verb id="regard">
+    <form id="1" text="regard" />
+    <form id="2" text="regard" />
+    <form id="3" text="regards" />
+    <form id="4" text="regard" />
+    <form id="5" text="regarded" />
+    <form id="6" text="regarded" />
+    <form id="7" text="regarded" />
+    <form id="8" text="regarding" />
+    <form id="9" text="regarded" />
+  </verb>
+  <verb id="regenerate">
+    <form id="1" text="regenerate" />
+    <form id="2" text="regenerate" />
+    <form id="3" text="regenerates" />
+    <form id="4" text="regenerate" />
+    <form id="5" text="regenerated" />
+    <form id="6" text="regenerated" />
+    <form id="7" text="regenerated" />
+    <form id="8" text="regenerating" />
+    <form id="9" text="regenerated" />
+  </verb>
+  <verb id="register">
+    <form id="1" text="register" />
+    <form id="2" text="register" />
+    <form id="3" text="registers" />
+    <form id="4" text="register" />
+    <form id="5" text="registered" />
+    <form id="6" text="registered" />
+    <form id="7" text="registered" />
+    <form id="8" text="registering" />
+    <form id="9" text="registered" />
+  </verb>
+  <verb id="reject">
+    <form id="1" text="reject" />
+    <form id="2" text="reject" />
+    <form id="3" text="rejects" />
+    <form id="4" text="reject" />
+    <form id="5" text="rejected" />
+    <form id="6" text="rejected" />
+    <form id="7" text="rejected" />
+    <form id="8" text="rejecting" />
+    <form id="9" text="rejected" />
+  </verb>
+  <verb id="relate">
+    <form id="1" text="relate" />
+    <form id="2" text="relate" />
+    <form id="3" text="relates" />
+    <form id="4" text="relate" />
+    <form id="5" text="related" />
+    <form id="6" text="related" />
+    <form id="7" text="related" />
+    <form id="8" text="relating" />
+    <form id="9" text="related" />
+  </verb>
+  <verb id="relieve">
+    <form id="1" text="relieve" />
+    <form id="2" text="relieve" />
+    <form id="3" text="relieves" />
+    <form id="4" text="relieve" />
+    <form id="5" text="relieved" />
+    <form id="6" text="relieved" />
+    <form id="7" text="relieved" />
+    <form id="8" text="relieving" />
+    <form id="9" text="relieved" />
+  </verb>
+  <verb id="remain">
+    <form id="1" text="remain" />
+    <form id="2" text="remain" />
+    <form id="3" text="remains" />
+    <form id="4" text="remain" />
+    <form id="5" text="remained" />
+    <form id="6" text="remained" />
+    <form id="7" text="remained" />
+    <form id="8" text="remaining" />
+    <form id="9" text="remained" />
+  </verb>
+  <verb id="remunerate">
+    <form id="1" text="remunerate" />
+    <form id="2" text="remunerate" />
+    <form id="3" text="remunerates" />
+    <form id="4" text="remunerate" />
+    <form id="5" text="remunerated" />
+    <form id="6" text="remunerated" />
+    <form id="7" text="remunerated" />
+    <form id="8" text="remunerating" />
+    <form id="9" text="remunerated" />
+  </verb>
+  <verb id="rend">
+    <form id="1" text="rend" />
+    <form id="2" text="rend" />
+    <form id="3" text="rends" />
+    <form id="4" text="rend" />
+    <form id="5" text="rended" />
+    <form id="6" text="rended" />
+    <form id="7" text="rended" />
+    <form id="8" text="rending" />
+    <form id="9" text="rended" />
+  </verb>
+  <verb id="render">
+    <form id="1" text="render" />
+    <form id="2" text="render" />
+    <form id="3" text="renders" />
+    <form id="4" text="render" />
+    <form id="5" text="rendered" />
+    <form id="6" text="rendered" />
+    <form id="7" text="rendered" />
+    <form id="8" text="rendering" />
+    <form id="9" text="rendered" />
+  </verb>
+  <verb id="report">
+    <form id="1" text="report" />
+    <form id="2" text="report" />
+    <form id="3" text="reports" />
+    <form id="4" text="report" />
+    <form id="5" text="reported" />
+    <form id="6" text="reported" />
+    <form id="7" text="reported" />
+    <form id="8" text="reporting" />
+    <form id="9" text="reported" />
+  </verb>
+  <verb id="represent">
+    <form id="1" text="represent" />
+    <form id="2" text="represent" />
+    <form id="3" text="represents" />
+    <form id="4" text="represent" />
+    <form id="5" text="represented" />
+    <form id="6" text="represented" />
+    <form id="7" text="represented" />
+    <form id="8" text="representing" />
+    <form id="9" text="represented" />
+  </verb>
+  <verb id="request">
+    <form id="1" text="request" />
+    <form id="2" text="request" />
+    <form id="3" text="requests" />
+    <form id="4" text="request" />
+    <form id="5" text="requested" />
+    <form id="6" text="requested" />
+    <form id="7" text="requested" />
+    <form id="8" text="requesting" />
+    <form id="9" text="requested" />
+  </verb>
+  <verb id="require">
+    <form id="1" text="require" />
+    <form id="2" text="require" />
+    <form id="3" text="requires" />
+    <form id="4" text="require" />
+    <form id="5" text="required" />
+    <form id="6" text="required" />
+    <form id="7" text="required" />
+    <form id="8" text="requiring" />
+    <form id="9" text="required" />
+  </verb>
+  <verb id="resend">
+    <form id="1" text="resend" />
+    <form id="2" text="resend" />
+    <form id="3" text="resends" />
+    <form id="4" text="resend" />
+    <form id="5" text="resent" />
+    <form id="6" text="resent" />
+    <form id="7" text="resent" />
+    <form id="8" text="resending" />
+    <form id="9" text="resent" />
+  </verb>
+  <verb id="reset">
+    <form id="1" text="reset" />
+    <form id="2" text="reset" />
+    <form id="3" text="resets" />
+    <form id="4" text="reset" />
+    <form id="5" text="reset" />
+    <form id="6" text="reset" />
+    <form id="7" text="reset" />
+    <form id="8" text="resetting" />
+    <form id="9" text="reset" />
+  </verb>
+  <verb id="reside">
+    <form id="1" text="reside" />
+    <form id="2" text="reside" />
+    <form id="3" text="resides" />
+    <form id="4" text="reside" />
+    <form id="5" text="resided" />
+    <form id="6" text="resided" />
+    <form id="7" text="resided" />
+    <form id="8" text="residing" />
+    <form id="9" text="resided" />
+  </verb>
+  <verb id="resolve">
+    <form id="1" text="resolve" />
+    <form id="2" text="resolve" />
+    <form id="3" text="resolves" />
+    <form id="4" text="resolve" />
+    <form id="5" text="resolved" />
+    <form id="6" text="resolved" />
+    <form id="7" text="resolved" />
+    <form id="8" text="resolving" />
+    <form id="9" text="resolved" />
+  </verb>
+  <verb id="respond">
+    <form id="1" text="respond" />
+    <form id="2" text="respond" />
+    <form id="3" text="responds" />
+    <form id="4" text="respond" />
+    <form id="5" text="responded" />
+    <form id="6" text="responded" />
+    <form id="7" text="responded" />
+    <form id="8" text="responding" />
+    <form id="9" text="responded" />
+  </verb>
+  <verb id="result">
+    <form id="1" text="result" />
+    <form id="2" text="result" />
+    <form id="3" text="results" />
+    <form id="4" text="result" />
+    <form id="5" text="resulted" />
+    <form id="6" text="resulted" />
+    <form id="7" text="resulted" />
+    <form id="8" text="resulting" />
+    <form id="9" text="resulted" />
+  </verb>
+  <verb id="retain">
+    <form id="1" text="retain" />
+    <form id="2" text="retain" />
+    <form id="3" text="retains" />
+    <form id="4" text="retain" />
+    <form id="5" text="retained" />
+    <form id="6" text="retained" />
+    <form id="7" text="retained" />
+    <form id="8" text="retaining" />
+    <form id="9" text="retained" />
+  </verb>
+  <verb id="retrieve">
+    <form id="1" text="retrieve" />
+    <form id="2" text="retrieve" />
+    <form id="3" text="retrieves" />
+    <form id="4" text="retrieve" />
+    <form id="5" text="retrieved" />
+    <form id="6" text="retrieved" />
+    <form id="7" text="retrieved" />
+    <form id="8" text="retrieving" />
+    <form id="9" text="retrieved" />
+  </verb>
+  <verb id="return">
+    <form id="1" text="return" />
+    <form id="2" text="return" />
+    <form id="3" text="returns" />
+    <form id="4" text="return" />
+    <form id="5" text="returned" />
+    <form id="6" text="returned" />
+    <form id="7" text="returned" />
+    <form id="8" text="returning" />
+    <form id="9" text="returned" />
+  </verb>
+  <verb id="rid">
+    <form id="1" text="rid" />
+    <form id="2" text="rid" />
+    <form id="3" text="rids" />
+    <form id="4" text="rid" />
+    <form id="5" text="rid" />
+    <form id="6" text="rid" />
+    <form id="7" text="rid" />
+    <form id="8" text="ridding" />
+    <form id="9" text="rid" />
+  </verb>
+  <verb id="ride">
+    <form id="1" text="ride" />
+    <form id="2" text="ride" />
+    <form id="3" text="rides" />
+    <form id="4" text="ride" />
+    <form id="5" text="rode" />
+    <form id="6" text="rode" />
+    <form id="7" text="rode" />
+    <form id="8" text="riding" />
+    <form id="9" text="ridden" />
+  </verb>
+  <verb id="ring">
+    <form id="1" text="ring" />
+    <form id="2" text="ring" />
+    <form id="3" text="rings" />
+    <form id="4" text="ring" />
+    <form id="5" text="rang" />
+    <form id="6" text="rang" />
+    <form id="7" text="rang" />
+    <form id="8" text="ringing" />
+    <form id="9" text="rung" />
+  </verb>
+  <verb id="rise">
+    <form id="1" text="rise" />
+    <form id="2" text="rise" />
+    <form id="3" text="rises" />
+    <form id="4" text="rise" />
+    <form id="5" text="rose" />
+    <form id="6" text="rose" />
+    <form id="7" text="rose" />
+    <form id="8" text="rising" />
+    <form id="9" text="risen" />
+  </verb>
+  <verb id="run">
+    <form id="1" text="run" />
+    <form id="2" text="run" />
+    <form id="3" text="runs" />
+    <form id="4" text="run" />
+    <form id="5" text="ran" />
+    <form id="6" text="ran" />
+    <form id="7" text="ran" />
+    <form id="8" text="running" />
+    <form id="9" text="run" />
+  </verb>
+  <verb id="satisfy">
+    <form id="1" text="satisfy" />
+    <form id="2" text="satisfy" />
+    <form id="3" text="satisfies" />
+    <form id="4" text="satisfy" />
+    <form id="5" text="satisfied" />
+    <form id="6" text="satisfied" />
+    <form id="7" text="satisfied" />
+    <form id="8" text="satisfying" />
+    <form id="9" text="satisfied" />
+  </verb>
+  <verb id="save">
+    <form id="1" text="save" />
+    <form id="2" text="save" />
+    <form id="3" text="saves" />
+    <form id="4" text="save" />
+    <form id="5" text="saved" />
+    <form id="6" text="saved" />
+    <form id="7" text="saved" />
+    <form id="8" text="saving" />
+    <form id="9" text="saved" />
+  </verb>
+  <verb id="see">
+    <form id="1" text="see" />
+    <form id="2" text="see" />
+    <form id="3" text="sees" />
+    <form id="4" text="see" />
+    <form id="5" text="saw" />
+    <form id="6" text="saw" />
+    <form id="7" text="saw" />
+    <form id="8" text="seeing" />
+    <form id="9" text="seen" />
+  </verb>
+  <verb id="say">
+    <form id="1" text="say" />
+    <form id="2" text="say" />
+    <form id="3" text="says" />
+    <form id="4" text="say" />
+    <form id="5" text="said" />
+    <form id="6" text="said" />
+    <form id="7" text="said" />
+    <form id="8" text="saying" />
+    <form id="9" text="said" />
+  </verb>
+  <verb id="screen">
+    <form id="1" text="screen" />
+    <form id="2" text="screen" />
+    <form id="3" text="screens" />
+    <form id="4" text="screen" />
+    <form id="5" text="screened" />
+    <form id="6" text="screened" />
+    <form id="7" text="screened" />
+    <form id="8" text="screening" />
+    <form id="9" text="screened" />
+  </verb>
+  <verb id="seek">
+    <form id="1" text="seek" />
+    <form id="2" text="seek" />
+    <form id="3" text="seeks" />
+    <form id="4" text="seek" />
+    <form id="5" text="sought" />
+    <form id="6" text="sought" />
+    <form id="7" text="sought" />
+    <form id="8" text="seeking" />
+    <form id="9" text="sought" />
+  </verb>
+  <verb id="select">
+    <form id="1" text="select" />
+    <form id="2" text="select" />
+    <form id="3" text="selects" />
+    <form id="4" text="select" />
+    <form id="5" text="selected" />
+    <form id="6" text="selected" />
+    <form id="7" text="selected" />
+    <form id="8" text="selecting" />
+    <form id="9" text="selected" />
+  </verb>
+  <verb id="sell">
+    <form id="1" text="sell" />
+    <form id="2" text="sell" />
+    <form id="3" text="sells" />
+    <form id="4" text="sell" />
+    <form id="5" text="sold" />
+    <form id="6" text="sold" />
+    <form id="7" text="sold" />
+    <form id="8" text="selling" />
+    <form id="9" text="sold" />
+  </verb>
+  <verb id="send">
+    <form id="1" text="send" />
+    <form id="2" text="send" />
+    <form id="3" text="sends" />
+    <form id="4" text="send" />
+    <form id="5" text="sent" />
+    <form id="6" text="sent" />
+    <form id="7" text="sent" />
+    <form id="8" text="sending" />
+    <form id="9" text="sent" />
+  </verb>
+  <verb id="sentence">
+    <form id="1" text="sentence" />
+    <form id="2" text="sentence" />
+    <form id="3" text="sentences" />
+    <form id="4" text="sentence" />
+    <form id="5" text="sentenced" />
+    <form id="6" text="sentenced" />
+    <form id="7" text="sentenced" />
+    <form id="8" text="sentencing" />
+    <form id="9" text="sentenced" />
+  </verb>
+  <verb id="serve">
+    <form id="1" text="serve" />
+    <form id="2" text="serve" />
+    <form id="3" text="serves" />
+    <form id="4" text="serve" />
+    <form id="5" text="served" />
+    <form id="6" text="served" />
+    <form id="7" text="served" />
+    <form id="8" text="serving" />
+    <form id="9" text="served" />
+  </verb>
+  <verb id="set">
+    <form id="1" text="set" />
+    <form id="2" text="set" />
+    <form id="3" text="sets" />
+    <form id="4" text="set" />
+    <form id="5" text="set" />
+    <form id="6" text="set" />
+    <form id="7" text="set" />
+    <form id="8" text="setting" />
+    <form id="9" text="set" />
+  </verb>
+  <verb id="sew">
+    <form id="1" text="sew" />
+    <form id="2" text="sew" />
+    <form id="3" text="sews" />
+    <form id="4" text="sew" />
+    <form id="5" text="sewed" />
+    <form id="6" text="sewed" />
+    <form id="7" text="sewed" />
+    <form id="8" text="sewing" />
+    <form id="9" text="sewn" />
+  </verb>
+  <verb id="shake">
+    <form id="1" text="shake" />
+    <form id="2" text="shake" />
+    <form id="3" text="shakes" />
+    <form id="4" text="shake" />
+    <form id="5" text="shook" />
+    <form id="6" text="shook" />
+    <form id="7" text="shook" />
+    <form id="8" text="shaking" />
+    <form id="9" text="shaken" />
+  </verb>
+  <verb id="shear">
+    <form id="1" text="shear" />
+    <form id="2" text="shear" />
+    <form id="3" text="shears" />
+    <form id="4" text="shear" />
+    <form id="5" text="sheared" />
+    <form id="6" text="sheared" />
+    <form id="7" text="sheared" />
+    <form id="8" text="shearing" />
+    <form id="9" text="shorn" />
+  </verb>
+  <verb id="shed">
+    <form id="1" text="shed" />
+    <form id="2" text="shed" />
+    <form id="3" text="sheds" />
+    <form id="4" text="shed" />
+    <form id="5" text="shed" />
+    <form id="6" text="shed" />
+    <form id="7" text="shed" />
+    <form id="8" text="shedding" />
+    <form id="9" text="shed" />
+  </verb>
+  <verb id="shine">
+    <form id="1" text="shine" />
+    <form id="2" text="shine" />
+    <form id="3" text="shines" />
+    <form id="4" text="shine" />
+    <form id="5" text="shone" />
+    <form id="6" text="shone" />
+    <form id="7" text="shone" />
+    <form id="8" text="shining" />
+    <form id="9" text="shone" />
+  </verb>
+  <verb id="shoe">
+    <form id="1" text="shoe" />
+    <form id="2" text="shoe" />
+    <form id="3" text="shoes" />
+    <form id="4" text="shoe" />
+    <form id="5" text="shod" />
+    <form id="6" text="shod" />
+    <form id="7" text="shod" />
+    <form id="8" text="shoeing" />
+    <form id="9" text="shod" />
+  </verb>
+  <verb id="shoot">
+    <form id="1" text="shoot" />
+    <form id="2" text="shoot" />
+    <form id="3" text="shoots" />
+    <form id="4" text="shoot" />
+    <form id="5" text="shot" />
+    <form id="6" text="shot" />
+    <form id="7" text="shot" />
+    <form id="8" text="shooting" />
+    <form id="9" text="shot" />
+  </verb>
+  <verb id="show">
+    <form id="1" text="show" />
+    <form id="2" text="show" />
+    <form id="3" text="shows" />
+    <form id="4" text="show" />
+    <form id="5" text="showed" />
+    <form id="6" text="showed" />
+    <form id="7" text="showed" />
+    <form id="8" text="showing" />
+    <form id="9" text="shown" />
+  </verb>
+  <verb id="shrink">
+    <form id="1" text="shrink" />
+    <form id="2" text="shrink" />
+    <form id="3" text="shrinks" />
+    <form id="4" text="shrink" />
+    <form id="5" text="shrunk" />
+    <form id="6" text="shrunk" />
+    <form id="7" text="shrunk" />
+    <form id="8" text="shrinking" />
+    <form id="9" text="shrunken" />
+  </verb>
+  <verb id="shut">
+    <form id="1" text="shut" />
+    <form id="2" text="shut" />
+    <form id="3" text="shuts" />
+    <form id="4" text="shut" />
+    <form id="5" text="shut" />
+    <form id="6" text="shut" />
+    <form id="7" text="shut" />
+    <form id="8" text="shutting" />
+    <form id="9" text="shut" />
+  </verb>
+  <verb id="sign">
+    <form id="1" text="sign" />
+    <form id="2" text="sign" />
+    <form id="3" text="signs" />
+    <form id="4" text="sign" />
+    <form id="5" text="signed" />
+    <form id="6" text="signed" />
+    <form id="7" text="signed" />
+    <form id="8" text="signing" />
+    <form id="9" text="signed" />
+  </verb>
+  <verb id="sing">
+    <form id="1" text="sing" />
+    <form id="2" text="sing" />
+    <form id="3" text="sings" />
+    <form id="4" text="sing" />
+    <form id="5" text="sang" />
+    <form id="6" text="sang" />
+    <form id="7" text="sang" />
+    <form id="8" text="singing" />
+    <form id="9" text="sung" />
+  </verb>
+  <verb id="sink">
+    <form id="1" text="sink" />
+    <form id="2" text="sink" />
+    <form id="3" text="sinks" />
+    <form id="4" text="sink" />
+    <form id="5" text="sank" />
+    <form id="6" text="sank" />
+    <form id="7" text="sank" />
+    <form id="8" text="sinking" />
+    <form id="9" text="sunk" />
+  </verb>
+  <verb id="sit">
+    <form id="1" text="sit" />
+    <form id="2" text="sit" />
+    <form id="3" text="sits" />
+    <form id="4" text="sit" />
+    <form id="5" text="sat" />
+    <form id="6" text="sat" />
+    <form id="7" text="sat" />
+    <form id="8" text="sitting" />
+    <form id="9" text="sat" />
+  </verb>
+  <verb id="slay">
+    <form id="1" text="slay" />
+    <form id="2" text="slay" />
+    <form id="3" text="slays" />
+    <form id="4" text="slay" />
+    <form id="5" text="slain" />
+    <form id="6" text="slain" />
+    <form id="7" text="slain" />
+    <form id="8" text="slaying" />
+    <form id="9" text="slain" />
+  </verb>
+  <verb id="sleep">
+    <form id="1" text="sleep" />
+    <form id="2" text="sleep" />
+    <form id="3" text="sleeps" />
+    <form id="4" text="sleep" />
+    <form id="5" text="slept" />
+    <form id="6" text="slept" />
+    <form id="7" text="slept" />
+    <form id="8" text="sleeping" />
+    <form id="9" text="slept" />
+  </verb>
+  <verb id="smoke">
+    <form id="1" text="smoke" />
+    <form id="2" text="smoke" />
+    <form id="3" text="smokes" />
+    <form id="4" text="smoke" />
+    <form id="5" text="smoked" />
+    <form id="6" text="smoked" />
+    <form id="7" text="smoked" />
+    <form id="8" text="smoking" />
+    <form id="9" text="smoked" />
+  </verb>
+  <verb id="specify">
+    <form id="1" text="specify" />
+    <form id="2" text="specify" />
+    <form id="3" text="specifies" />
+    <form id="4" text="specify" />
+    <form id="5" text="specified" />
+    <form id="6" text="specified" />
+    <form id="7" text="specified" />
+    <form id="8" text="specifying" />
+    <form id="9" text="specified" />
+  </verb>
+  <verb id="stand">
+    <form id="1" text="stand" />
+    <form id="2" text="stand" />
+    <form id="3" text="stands" />
+    <form id="4" text="stand" />
+    <form id="5" text="stood" />
+    <form id="6" text="stood" />
+    <form id="7" text="stood" />
+    <form id="8" text="standing" />
+    <form id="9" text="stood" />
+  </verb>
+  <verb id="start">
+    <form id="1" text="start" />
+    <form id="2" text="start" />
+    <form id="3" text="starts" />
+    <form id="4" text="start" />
+    <form id="5" text="started" />
+    <form id="6" text="started" />
+    <form id="7" text="started" />
+    <form id="8" text="starting" />
+    <form id="9" text="started" />
+  </verb>
+  <verb id="state">
+    <form id="1" text="state" />
+    <form id="2" text="state" />
+    <form id="3" text="states" />
+    <form id="4" text="state" />
+    <form id="5" text="stated" />
+    <form id="6" text="stated" />
+    <form id="7" text="stated" />
+    <form id="8" text="stating" />
+    <form id="9" text="stated" />
+  </verb>
+  <verb id="submit">
+    <form id="1" text="submit" />
+    <form id="2" text="submit" />
+    <form id="3" text="submits" />
+    <form id="4" text="submit" />
+    <form id="5" text="submitted" />
+    <form id="6" text="submitted" />
+    <form id="7" text="submitted" />
+    <form id="8" text="submitting" />
+    <form id="9" text="submitted" />
+  </verb>
+  <verb id="suffer">
+    <form id="1" text="suffer" />
+    <form id="2" text="suffer" />
+    <form id="3" text="suffers" />
+    <form id="4" text="suffer" />
+    <form id="5" text="suffered" />
+    <form id="6" text="suffered" />
+    <form id="7" text="suffered" />
+    <form id="8" text="suffering" />
+    <form id="9" text="suffered" />
+  </verb>
+  <verb id="supply">
+    <form id="1" text="supply" />
+    <form id="2" text="supply" />
+    <form id="3" text="supplies" />
+    <form id="4" text="supply" />
+    <form id="5" text="supplied" />
+    <form id="6" text="supplied" />
+    <form id="7" text="supplied" />
+    <form id="8" text="supplying" />
+    <form id="9" text="supplied" />
+  </verb>
+  <verb id="sustain">
+    <form id="1" text="sustain" />
+    <form id="2" text="sustain" />
+    <form id="3" text="sustains" />
+    <form id="4" text="sustain" />
+    <form id="5" text="sustained" />
+    <form id="6" text="sustained" />
+    <form id="7" text="sustained" />
+    <form id="8" text="sustaining" />
+    <form id="9" text="sustained" />
+  </verb>
+  <verb id="swim">
+    <form id="1" text="swim" />
+    <form id="2" text="swim" />
+    <form id="3" text="swims" />
+    <form id="4" text="swim" />
+    <form id="5" text="swam" />
+    <form id="6" text="swam" />
+    <form id="7" text="swam" />
+    <form id="8" text="swimming" />
+    <form id="9" text="swum" />
+  </verb>
+  <verb id="take">
+    <form id="1" text="take" />
+    <form id="2" text="take" />
+    <form id="3" text="takes" />
+    <form id="4" text="take" />
+    <form id="5" text="took" />
+    <form id="6" text="took" />
+    <form id="7" text="took" />
+    <form id="8" text="taking" />
+    <form id="9" text="taken" />
+  </verb>
+  <verb id="travel">
+    <form id="1" text="travel" />
+    <form id="2" text="travel" />
+    <form id="3" text="travels" />
+    <form id="4" text="travel" />
+    <form id="5" text="traveled" />
+    <form id="6" text="traveled" />
+    <form id="7" text="traveled" />
+    <form id="8" text="traveling" />
+    <form id="9" text="traveled" />
+  </verb>
+  <verb id="treat">
+    <form id="1" text="treat" />
+    <form id="2" text="treat" />
+    <form id="3" text="treats" />
+    <form id="4" text="treat" />
+    <form id="5" text="treated" />
+    <form id="6" text="treated" />
+    <form id="7" text="treated" />
+    <form id="8" text="treating" />
+    <form id="9" text="treated" />
+  </verb>
+  <verb id="understand">
+    <form id="1" text="understand" />
+    <form id="2" text="understand" />
+    <form id="3" text="understands" />
+    <form id="4" text="understand" />
+    <form id="5" text="understood" />
+    <form id="6" text="understood" />
+    <form id="7" text="understood" />
+    <form id="8" text="understanding" />
+    <form id="9" text="understood" />
+  </verb>
+  <verb id="undertake">
+    <form id="1" text="undertake" />
+    <form id="2" text="undertake" />
+    <form id="3" text="undertakes" />
+    <form id="4" text="undertake" />
+    <form id="5" text="undertook" />
+    <form id="6" text="undertook" />
+    <form id="7" text="undertook" />
+    <form id="8" text="undertaking" />
+    <form id="9" text="undertaken" />
+  </verb>
+  <verb id="use">
+    <form id="1" text="use" />
+    <form id="2" text="use" />
+    <form id="3" text="uses" />
+    <form id="4" text="use" />
+    <form id="5" text="used" />
+    <form id="6" text="used" />
+    <form id="7" text="used" />
+    <form id="8" text="using" />
+    <form id="9" text="used" />
+  </verb>
+  <verb id="visit">
+    <form id="1" text="visit" />
+    <form id="2" text="visit" />
+    <form id="3" text="visits" />
+    <form id="4" text="visit" />
+    <form id="5" text="visited" />
+    <form id="6" text="visited" />
+    <form id="7" text="visited" />
+    <form id="8" text="visiting" />
+    <form id="9" text="visited" />
+  </verb>
+  <verb id="wake">
+    <form id="1" text="wake" />
+    <form id="2" text="wake" />
+    <form id="3" text="wakes" />
+    <form id="4" text="wake" />
+    <form id="5" text="woke" />
+    <form id="6" text="woke" />
+    <form id="7" text="woke" />
+    <form id="8" text="waking" />
+    <form id="9" text="woken" />
+  </verb>
+  <verb id="want">
+    <form id="1" text="want" />
+    <form id="2" text="want" />
+    <form id="3" text="wants" />
+    <form id="4" text="want" />
+    <form id="5" text="wanted" />
+    <form id="6" text="wanted" />
+    <form id="7" text="wanted" />
+    <form id="8" text="wanting" />
+    <form id="9" text="wanted" />
+  </verb>
+  <verb id="wear">
+    <form id="1" text="wear" />
+    <form id="2" text="wear" />
+    <form id="3" text="wears" />
+    <form id="4" text="wear" />
+    <form id="5" text="wore" />
+    <form id="6" text="wore" />
+    <form id="7" text="wore" />
+    <form id="8" text="wearing" />
+    <form id="9" text="worn" />
+  </verb>
+  <verb id="weave">
+    <form id="1" text="weave" />
+    <form id="2" text="weave" />
+    <form id="3" text="weaves" />
+    <form id="4" text="weave" />
+    <form id="5" text="wove" />
+    <form id="6" text="wove" />
+    <form id="7" text="wove" />
+    <form id="8" text="weaving" />
+    <form id="9" text="woven" />
+  </verb>
+  <verb id="weep">
+    <form id="1" text="weep" />
+    <form id="2" text="weep" />
+    <form id="3" text="weeps" />
+    <form id="4" text="weep" />
+    <form id="5" text="wept" />
+    <form id="6" text="wept" />
+    <form id="7" text="wept" />
+    <form id="8" text="weeping" />
+    <form id="9" text="wept" />
+  </verb>
+  <verb id="wet">
+    <form id="1" text="wet" />
+    <form id="2" text="wet" />
+    <form id="3" text="wets" />
+    <form id="4" text="wet" />
+    <form id="5" text="wet" />
+    <form id="6" text="wet" />
+    <form id="7" text="wet" />
+    <form id="8" text="wetting" />
+    <form id="9" text="wet" />
+  </verb>
+  <verb id="will">
+    <form id="1" text="will" />
+    <form id="2" text="will" />
+    <form id="3" text="will" />
+    <form id="4" text="will" />
+    <form id="5" text="willed" />
+    <form id="6" text="willed" />
+    <form id="7" text="willed" />
+    <form id="8" text="willing" />
+    <form id="9" text="willed" />
+  </verb>
+  <verb id="win">
+    <form id="1" text="win" />
+    <form id="2" text="win" />
+    <form id="3" text="wins" />
+    <form id="4" text="win" />
+    <form id="5" text="won" />
+    <form id="6" text="won" />
+    <form id="7" text="won" />
+    <form id="8" text="winning" />
+    <form id="9" text="won" />
+  </verb>
+  <verb id="wind">
+    <form id="1" text="wind" />
+    <form id="2" text="wind" />
+    <form id="3" text="winds" />
+    <form id="4" text="wind" />
+    <form id="5" text="wound" />
+    <form id="6" text="wound" />
+    <form id="7" text="wound" />
+    <form id="8" text="winding" />
+    <form id="9" text="wound" />
+  </verb>
+  <verb id="wish">
+    <form id="1" text="wish" />
+    <form id="2" text="wish" />
+    <form id="3" text="wishes" />
+    <form id="4" text="wish" />
+    <form id="5" text="wished" />
+    <form id="6" text="wished" />
+    <form id="7" text="wished" />
+    <form id="8" text="wishing" />
+    <form id="9" text="wished" />
+  </verb>
+  <verb id="work">
+    <form id="1" text="work" />
+    <form id="2" text="work" />
+    <form id="3" text="works" />
+    <form id="4" text="work" />
+    <form id="5" text="worked" />
+    <form id="6" text="worked" />
+    <form id="7" text="worked" />
+    <form id="8" text="working" />
+    <form id="9" text="worked" />
+  </verb>
+  <verb id="wring">
+    <form id="1" text="wring" />
+    <form id="2" text="wring" />
+    <form id="3" text="wrings" />
+    <form id="4" text="wring" />
+    <form id="5" text="wrung" />
+    <form id="6" text="wrung" />
+    <form id="7" text="wrung" />
+    <form id="8" text="wringing" />
+    <form id="9" text="wrung" />
+  </verb>
+  <verb id="write">
+    <form id="1" text="write" />
+    <form id="2" text="write" />
+    <form id="3" text="writes" />
+    <form id="4" text="write" />
+    <form id="5" text="wrote" />
+    <form id="6" text="wrote" />
+    <form id="7" text="wrote" />
+    <form id="8" text="writing" />
+    <form id="9" text="written" />
+  </verb>
+  <verb id="occupy">
+    <form id="1" text="occupy" />
+    <form id="2" text="occupy" />
+    <form id="3" text="occupies" />
+    <form id="4" text="occupy" />
+    <form id="5" text="occupied" />
+    <form id="6" text="occupied" />
+    <form id="7" text="occupied" />
+    <form id="8" text="occupying" />
+    <form id="9" text="occupied" />
+  </verb>
+  <verb id="house">
+    <form id="1" text="house" />
+    <form id="2" text="house" />
+    <form id="3" text="houses" />
+    <form id="4" text="house" />
+    <form id="5" text="housed" />
+    <form id="6" text="housed" />
+    <form id="7" text="housed" />
+    <form id="8" text="housing" />
+    <form id="9" text="housed" />
+  </verb>
+  <verb id="move">
+    <form id="1" text="move" />
+    <form id="2" text="move" />
+    <form id="3" text="moves" />
+    <form id="4" text="move" />
+    <form id="5" text="moved" />
+    <form id="6" text="moved" />
+    <form id="7" text="moved" />
+    <form id="8" text="moving" />
+    <form id="9" text="moved" />
+  </verb>
+  <verb id="waive">
+    <form id="1" text="waive" />
+    <form id="2" text="waive" />
+    <form id="3" text="waives" />
+    <form id="4" text="waive" />
+    <form id="5" text="waived" />
+    <form id="6" text="waived" />
+    <form id="7" text="waived" />
+    <form id="8" text="waiving" />
+    <form id="9" text="waived" />
+  </verb>
+  <verb id="own">
+    <form id="1" text="own" />
+    <form id="2" text="own" />
+    <form id="3" text="owns" />
+    <form id="4" text="own" />
+    <form id="5" text="owned" />
+    <form id="6" text="owned" />
+    <form id="7" text="owned" />
+    <form id="8" text="owning" />
+    <form id="9" text="owned" />
+  </verb>
+  <verb id="suspend">
+    <form id="1" text="suspend" />
+    <form id="2" text="suspend" />
+    <form id="3" text="suspends" />
+    <form id="4" text="suspend" />
+    <form id="5" text="suspended" />
+    <form id="6" text="suspended" />
+    <form id="7" text="suspended" />
+    <form id="8" text="suspending" />
+    <form id="9" text="suspended" />
+  </verb>
+  <verb id="notify">
+    <form id="1" text="notify" />
+    <form id="2" text="notify" />
+    <form id="3" text="notifies" />
+    <form id="4" text="notify" />
+    <form id="5" text="notified" />
+    <form id="6" text="notified" />
+    <form id="7" text="notified" />
+    <form id="8" text="notifying" />
+    <form id="9" text="notified" />
+  </verb>
+  <verb id="grant">
+    <form id="1" text="grant" />
+    <form id="2" text="grant" />
+    <form id="3" text="grants" />
+    <form id="4" text="grant" />
+    <form id="5" text="granted" />
+    <form id="6" text="granted" />
+    <form id="7" text="granted" />
+    <form id="8" text="granting" />
+    <form id="9" text="granted" />
+  </verb>
+  <verb id="furnish">
+    <form id="1" text="furnish" />
+    <form id="2" text="furnish" />
+    <form id="3" text="furnishes" />
+    <form id="4" text="furnish" />
+    <form id="5" text="furnished" />
+    <form id="6" text="furnished" />
+    <form id="7" text="furnished" />
+    <form id="8" text="furnishing" />
+    <form id="9" text="furnished" />
+  </verb>
+  <verb id="offset">
+    <form id="1" text="offset" />
+    <form id="2" text="offset" />
+    <form id="3" text="offsets" />
+    <form id="4" text="offset" />
+    <form id="5" text="offseted" />
+    <form id="6" text="offseted" />
+    <form id="7" text="offseted" />
+    <form id="8" text="offseting" />
+    <form id="9" text="offseted" />
+  </verb>
+  <verb id="share">
+    <form id="1" text="share" />
+    <form id="2" text="share" />
+    <form id="3" text="shares" />
+    <form id="4" text="share" />
+    <form id="5" text="shared" />
+    <form id="6" text="shared" />
+    <form id="7" text="shared" />
+    <form id="8" text="sharing" />
+    <form id="9" text="shared" />
+  </verb>
+  <verb id="replace">
+    <form id="1" text="replace" />
+    <form id="2" text="replace" />
+    <form id="3" text="replaces" />
+    <form id="4" text="replace" />
+    <form id="5" text="replaced" />
+    <form id="6" text="replaced" />
+    <form id="7" text="replaced" />
+    <form id="8" text="replacing" />
+    <form id="9" text="replaced" />
+  </verb>
+  <verb id="overwrite">
+    <form id="1" text="overwrite" />
+    <form id="2" text="overwrite" />
+    <form id="3" text="overwrites" />
+    <form id="4" text="overwrite" />
+    <form id="5" text="overwrote" />
+    <form id="6" text="overwrote" />
+    <form id="7" text="overwrote" />
+    <form id="8" text="overwriting" />
+    <form id="9" text="overwritten" />
+  </verb>
+  <verb id="grab">
+    <form id="1" text="grab" />
+    <form id="2" text="grab" />
+    <form id="3" text="grabs" />
+    <form id="4" text="grab" />
+    <form id="5" text="grabed" />
+    <form id="6" text="grabed" />
+    <form id="7" text="grabed" />
+    <form id="8" text="grabing" />
+    <form id="9" text="grabed" />
+  </verb>
+  <verb id="recover">
+    <form id="1" text="recover" />
+    <form id="2" text="recover" />
+    <form id="3" text="recovers" />
+    <form id="4" text="recover" />
+    <form id="5" text="recovered" />
+    <form id="6" text="recovered" />
+    <form id="7" text="recovered" />
+    <form id="8" text="recovering" />
+    <form id="9" text="recovered" />
+  </verb>
+  <verb id="vest">
+    <form id="1" text="vest" />
+    <form id="2" text="vest" />
+    <form id="3" text="vests" />
+    <form id="4" text="vest" />
+    <form id="5" text="vested" />
+    <form id="6" text="vested" />
+    <form id="7" text="vested" />
+    <form id="8" text="vesting" />
+    <form id="9" text="vested" />
+  </verb>
+  <verb id="finish">
+    <form id="1" text="finish" />
+    <form id="2" text="finish" />
+    <form id="3" text="finishes" />
+    <form id="4" text="finish" />
+    <form id="5" text="finished" />
+    <form id="6" text="finished" />
+    <form id="7" text="finished" />
+    <form id="8" text="finishing" />
+    <form id="9" text="finished" />
+  </verb>
+  <verb id="vary">
+    <form id="1" text="vary" />
+    <form id="2" text="vary" />
+    <form id="3" text="varies" />
+    <form id="4" text="vary" />
+    <form id="5" text="varied" />
+    <form id="6" text="varied" />
+    <form id="7" text="varied" />
+    <form id="8" text="varying" />
+    <form id="9" text="varied" />
+  </verb>
+  <verb id="reduce">
+    <form id="1" text="reduce" />
+    <form id="2" text="reduce" />
+    <form id="3" text="reduces" />
+    <form id="4" text="reduce" />
+    <form id="5" text="reduced" />
+    <form id="6" text="reduced" />
+    <form id="7" text="reduced" />
+    <form id="8" text="reducing" />
+    <form id="9" text="reduced" />
+  </verb>
+  <verb id="substitute">
+    <form id="1" text="substitute" />
+    <form id="2" text="substitute" />
+    <form id="3" text="substitutes" />
+    <form id="4" text="substitute" />
+    <form id="5" text="substituted" />
+    <form id="6" text="substituted" />
+    <form id="7" text="substituted" />
+    <form id="8" text="substituting" />
+    <form id="9" text="substituted" />
+  </verb>
+  <verb id="interrupt">
+    <form id="1" text="interrupt" />
+    <form id="2" text="interrupt" />
+    <form id="3" text="interrupts" />
+    <form id="4" text="interrupt" />
+    <form id="5" text="interrupted" />
+    <form id="6" text="interrupted" />
+    <form id="7" text="interrupted" />
+    <form id="8" text="interrupting" />
+    <form id="9" text="interrupted" />
+  </verb>
+  <verb id="resume">
+    <form id="1" text="resume" />
+    <form id="2" text="resume" />
+    <form id="3" text="resumes" />
+    <form id="4" text="resume" />
+    <form id="5" text="resumed" />
+    <form id="6" text="resumed" />
+    <form id="7" text="resumed" />
+    <form id="8" text="resuming" />
+    <form id="9" text="resumed" />
+  </verb>
+  <verb id="support">
+    <form id="1" text="support" />
+    <form id="2" text="support" />
+    <form id="3" text="supports" />
+    <form id="4" text="support" />
+    <form id="5" text="supported" />
+    <form id="6" text="supported" />
+    <form id="7" text="supported" />
+    <form id="8" text="supporting" />
+    <form id="9" text="supported" />
+  </verb>
+  <verb id="rent">
+    <form id="1" text="rent" />
+    <form id="2" text="rent" />
+    <form id="3" text="rents" />
+    <form id="4" text="rent" />
+    <form id="5" text="rented" />
+    <form id="6" text="rented" />
+    <form id="7" text="rented" />
+    <form id="8" text="renting" />
+    <form id="9" text="rented" />
+  </verb>
+  <verb id="end">
+    <form id="1" text="end" />
+    <form id="2" text="end" />
+    <form id="3" text="ends" />
+    <form id="4" text="end" />
+    <form id="5" text="ended" />
+    <form id="6" text="ended" />
+    <form id="7" text="ended" />
+    <form id="8" text="ending" />
+    <form id="9" text="ended" />
+  </verb>
+  <verb id="undergo">
+    <form id="1" text="undergo" />
+    <form id="2" text="undergo" />
+    <form id="3" text="undergoes" />
+    <form id="4" text="undergo" />
+    <form id="5" text="underwent" />
+    <form id="6" text="underwent" />
+    <form id="7" text="underwent" />
+    <form id="8" text="undergoing" />
+    <form id="9" text="underwent" />
+  </verb>
+  <verb id="turn">
+    <form id="1" text="turn" />
+    <form id="2" text="turn" />
+    <form id="3" text="turns" />
+    <form id="4" text="turn" />
+    <form id="5" text="turned" />
+    <form id="6" text="turned" />
+    <form id="7" text="turned" />
+    <form id="8" text="turning" />
+    <form id="9" text="turned" />
+  </verb>
+  <verb id="sublet">
+    <form id="1" text="sublet" />
+    <form id="2" text="sublet" />
+    <form id="3" text="sublets" />
+    <form id="4" text="sublet" />
+    <form id="5" text="sublet" />
+    <form id="6" text="sublet" />
+    <form id="7" text="sublet" />
+    <form id="8" text="subleting" />
+    <form id="9" text="sublet" />
+  </verb>
+  <verb id="possess">
+    <form id="1" text="possess" />
+    <form id="2" text="possess" />
+    <form id="3" text="possesses" />
+    <form id="4" text="possess" />
+    <form id="5" text="possessed" />
+    <form id="6" text="possessed" />
+    <form id="7" text="possessed" />
+    <form id="8" text="possessing" />
+    <form id="9" text="possessed" />
+  </verb>
+  <verb id="vacate">
+    <form id="1" text="vacate" />
+    <form id="2" text="vacate" />
+    <form id="3" text="vacates" />
+    <form id="4" text="vacate" />
+    <form id="5" text="vacated" />
+    <form id="6" text="vacated" />
+    <form id="7" text="vacated" />
+    <form id="8" text="vacating" />
+    <form id="9" text="vacated" />
+  </verb>
+  <verb id="verify">
+    <form id="1" text="verify" />
+    <form id="2" text="verify" />
+    <form id="3" text="verifies" />
+    <form id="4" text="verify" />
+    <form id="5" text="verified" />
+    <form id="6" text="verified" />
+    <form id="7" text="verified" />
+    <form id="8" text="verifying" />
+    <form id="9" text="verified" />
+  </verb>
+  <verb id="withdraw">
+    <form id="1" text="withdraw" />
+    <form id="2" text="withdraw" />
+    <form id="3" text="withdraws" />
+    <form id="4" text="withdraw" />
+    <form id="5" text="withdrew" />
+    <form id="6" text="withdrew" />
+    <form id="7" text="withdrew" />
+    <form id="8" text="withdrawing" />
+    <form id="9" text="withdrawn" />
+  </verb>
+  <verb id="withhold">
+    <form id="1" text="withhold" />
+    <form id="2" text="withhold" />
+    <form id="3" text="withholds" />
+    <form id="4" text="withhold" />
+    <form id="5" text="withheld" />
+    <form id="6" text="withheld" />
+    <form id="7" text="withheld" />
+    <form id="8" text="withholding" />
+    <form id="9" text="withheld" />
+  </verb>
+  <verb id="owe">
+    <form id="1" text="owe" />
+    <form id="2" text="owe" />
+    <form id="3" text="owes" />
+    <form id="4" text="owe" />
+    <form id="5" text="owed" />
+    <form id="6" text="owed" />
+    <form id="7" text="owed" />
+    <form id="8" text="owing" />
+    <form id="9" text="owed" />
+  </verb>
+</verbs>
