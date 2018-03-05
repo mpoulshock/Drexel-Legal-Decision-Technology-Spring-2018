@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<interview product-version="12.2.9.975">
+  <cors />
+  <documents UsePDFA="false" />
+  <screens>
+    <Screen Title="Interview Complete" SubmitAction="Next" CheckpointAfterSubmit="false" DynamicErrors="false" SubmitRedirectURL="" HasBackButton="false" ShowExitButton="true" ShowProgressStages="true" ShowRestartButton="true" PublicName="" QuestionLayout="" QuestionWidth="150" IsAutomatic="false" ShowCondition="always" ID="03bb03e0-31c6-406f-92bc-b69da7b36019">
+      <Controls>
+        <ExplanationControl ShowReferenceTags="true" ControlWidth="0" DefaultState="enabled" ID="83e44558-5ea0-46b8-b79e-91bfb3a45601" />
+      </Controls>
+    </Screen>
+  </screens>
+  <screen-order ID="2824359b-594f-4538-b16b-0bd9e9ea89a7" PublicName="Main">
+    <ScreenOrderItemContainer ID="1f297ade-e791-4700-8160-197c1d5f576e" Title="Stage 1">
+      <ScreenOrderScreen Screen="03bb03e0-31c6-406f-92bc-b69da7b36019" />
+    </ScreenOrderItemContainer>
+  </screen-order>
+</interview>
