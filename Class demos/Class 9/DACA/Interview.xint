@@ -10,6 +10,9 @@
     </Screen>
   </screens>
   <screen-order ID="b17e2f4c-984a-4a62-9f9e-d5c094c7df77" PublicName="Main">
+    <goal-set>
+      <attr id="28673319-6825-4379-9cbc-912ad7d3d150" />
+    </goal-set>
     <ScreenOrderItemContainer ID="d84796b8-8f81-4bfa-afa2-1b4869a9854a" Title="Stage 1">
       <ScreenOrderScreen Screen="a6ebf112-4d0d-41f5-9f33-db490c11d09d" />
     </ScreenOrderItemContainer>

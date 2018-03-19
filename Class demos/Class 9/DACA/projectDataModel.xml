@@ -1,7 +1,33 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <root product-version="12.2.9.975">
   <entities>
-    <entity ref="global" />
+    <entity ref="global">
+      <attribute name="28673319-6825-4379-9cbc-912ad7d3d150" type="boolean">
+        <text>
+          <base>the person can request a renewal of DACA</base>
+          <parse>s(ver('12.2.9.975'),v(request+can,t(simple,modal,normal)),sb('the person',plural),o('a renewal of DACA'))</parse>
+        </text>
+      </attribute>
+    </entity>
+    <entity id="01e2367f-d048-49ac-97d5-8ac35b45a80f" name="the interval" identifying-attribute-name="753d5dd4-708c-437a-9d44-45eb0e73e658" containment-relationship-id="a1291d2a-95da-415a-b83b-6ced48e1dca0" containment-parent-id="global">
+      <attribute name="753d5dd4-708c-437a-9d44-45eb0e73e658" type="text" public-name="interval" substitutable="true" default-gender="Generic" user-created="true">
+        <text>
+          <base>the interval</base>
+        </text>
+      </attribute>
+      <attribute name="c46d5bbc-35e7-4f3c-aab0-bb97538db185" type="date" user-created="true" validation-message="Invalid value.">
+        <text>
+          <base>the interval start date</base>
+        </text>
+      </attribute>
+      <attribute name="1bf3bfe6-0cdb-4aab-9dae-7a06b74456aa" type="date" user-created="true" validation-message="Invalid value.">
+        <text>
+          <base>the interval end date</base>
+        </text>
+      </attribute>
+    </entity>
   </entities>
-  <relationships />
+  <relationships>
+    <relationship relationship-id="a1291d2a-95da-415a-b83b-6ced48e1dca0" reverse-relationship-id="9cb74bec-eea3-42de-831d-61c5516cc2d6" source="global" target="01e2367f-d048-49ac-97d5-8ac35b45a80f" is-containment="true" public-id="" reverse-public-id="" text="the intervals" reverse-text="" type="OneToMany" is-computed="false" silent-if-known="true" invisible-if-known="true" />
+  </relationships>
 </root>
