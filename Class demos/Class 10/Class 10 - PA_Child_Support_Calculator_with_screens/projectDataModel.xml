@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root product-version="12.2.9.975">
+  <entities>
+    <entity ref="global">
+      <attribute name="5ac360be-6f31-497f-8619-e58fc9c2416d" type="boolean">
+        <text>
+          <base>the parties share custody of the children equally</base>
+          <parse>s(ver('12.2.9.975'),v(share,t(simple,present,normal)),sb('the parties',plural),o('custody of the children equally'))</parse>
+        </text>
+      </attribute>
+      <attribute name="2ced0b8f-9ae2-4617-93da-9d0d335054cb" type="auto">
+        <text>
+          <base>the number of children</base>
+        </text>
+      </attribute>
+      <attribute name="aafcba53-407c-4da0-836e-4aedc7fc6e33" type="auto">
+        <text>
+          <base>the amount from line 9</base>
+        </text>
+      </attribute>
+      <attribute name="5ec4251e-79bd-4277-a612-bf0fcc28b086" type="text" user-created="true" validation-message="Invalid value.">
+        <text>
+          <base>the piece of data</base>
+        </text>
+      </attribute>
+    </entity>
+    <entity id="c7213dee-a496-4d6a-ada5-227a1967a340" name="the person" identifying-attribute-name="32ef4b1f-d1f1-4bbc-b286-7d0029935e0a" containment-relationship-id="4c9595d0-757b-4fef-a2e7-ba9f45f5a5f6" containment-parent-id="global">
+      <attribute name="32ef4b1f-d1f1-4bbc-b286-7d0029935e0a" type="text" public-name="person" substitutable="true" default-gender="Generic" user-created="true">
+        <text>
+          <base>the person</base>
+        </text>
+      </attribute>
+      <attribute name="63a038f0-f1fd-44e8-9076-51d7999c3e0f" type="boolean" validation-message="Invalid value.">
+        <text>
+          <base>the person owes child support</base>
+          <parse>s(ver('12.2.9.975'),v(owe,t(simple,present,normal)),sb('the person',singular),o('child support'))</parse>
+        </text>
+      </attribute>
+      <attribute name="6b52a7f9-8317-4bd3-981a-3df2304afab3" type="currency" validation-message="Invalid value.">
+        <text>
+          <base>the person's child care expenses (line 12(a))</base>
+        </text>
+      </attribute>
+      <attribute name="f9d52b95-7aa8-4373-a063-9f6cf7aea011" type="number" validation-message="Invalid value.">
+        <text>
+          <base>the person's net income as a percentage share of income (line 7)</base>
+        </text>
+      </attribute>
+      <attribute name="522ffa3c-ca83-4dee-bda3-689e091ca5ba" type="auto">
+        <text>
+          <base>the person's total gross monthly income (line 1)</base>
+        </text>
+      </attribute>
+      <attribute name="5b295b2e-42a7-480e-9419-c4c6e81705a5" type="auto">
+        <text>
+          <base>the person's monthly deductions (line 2)</base>
+        </text>
+      </attribute>
+      <attribute name="f2fe59e5-5d34-447c-b4b5-0ed3f9626fb4" type="auto">
+        <text>
+          <base>the percentage of time the person spends with the children</base>
+        </text>
+      </attribute>
+      <attribute name="27f67550-5df1-4808-9604-21048cc34478" type="auto">
+        <text>
+          <base>the person's health insurance premium expenses (lines 12(b) and (c))</base>
+        </text>
+      </attribute>
+      <attribute name="597fdc5d-1391-4b3d-886a-be5939d0c168" type="auto">
+        <text>
+          <base>the person's unreimbursed medical expenses (line 12(d))</base>
+        </text>
+      </attribute>
+      <attribute name="a1e734f4-e37a-4031-a658-548497b4ca57" type="auto">
+        <text>
+          <base>the person's additional expenses (line 12(e))</base>
+        </text>
+      </attribute>
+      <attribute name="b8277da9-622d-48bc-a7f2-0bcc4f8cbb2b" type="boolean">
+        <text>
+          <base>the court orders that the person is the obligor</base>
+          <parse>s(ver('12.2.9.975'),v(be,t(simple,present,normal)),sb('the court orders that the person',singular),o('the obligor'))</parse>
+        </text>
+      </attribute>
+      <attribute name="1b0393ed-52b7-46c7-ab60-0d73dc5382cd" type="boolean">
+        <text>
+          <base>the person has primary custody of the children</base>
+          <parse>s(ver('12.2.9.975'),v(have,t(simple,present,normal)),sb('the person',singular),o('primary custody of the children'))</parse>
+        </text>
+      </attribute>
+      <attribute name="411e2b6a-f2fb-4611-96b0-439f82aefc75" type="auto">
+        <text>
+          <base>the person's adjusted amount from line 11(e)</base>
+        </text>
+      </attribute>
+      <attribute name="dff386eb-03d3-4e01-8d93-76937c5f4abb" type="boolean">
+        <text>
+          <base>the person is the obligee</base>
+          <parse>s(ver('12.2.9.975'),v(be,t(simple,present,normal)),sb('the person',singular),o('the obligee'))</parse>
+        </text>
+      </attribute>
+      <attribute name="dd726770-1772-4019-bf8c-9091e103bb88" type="auto">
+        <text>
+          <base>the person's total monthly support obligation (line 13)</base>
+        </text>
+      </attribute>
+    </entity>
+  </entities>
+  <relationships>
+    <relationship relationship-id="4c9595d0-757b-4fef-a2e7-ba9f45f5a5f6" reverse-relationship-id="a9272b57-638c-4f6c-be98-855219f25940" source="global" target="c7213dee-a496-4d6a-ada5-227a1967a340" is-containment="true" public-id="" reverse-public-id="" text="the people" reverse-text="" type="OneToMany" is-computed="false" silent-if-known="true" invisible-if-known="true" />
+  </relationships>
+</root>

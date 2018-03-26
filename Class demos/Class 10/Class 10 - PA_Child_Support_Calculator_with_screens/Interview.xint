@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<interview product-version="12.2.9.975">
+  <cors />
+  <documents UsePDFA="false" />
+  <screens>
+    <Screen Title="Child Support Calculator" SubmitAction="Next" CheckpointAfterSubmit="false" DynamicErrors="false" SubmitRedirectURL="" HasBackButton="false" ShowExitButton="true" ShowProgressStages="true" ShowRestartButton="true" PublicName="" QuestionLayout="" QuestionWidth="150" IsAutomatic="false" ShowCondition="always" ID="2ef283b5-886b-4a70-94dd-79f456e47ba1">
+      <Controls>
+        <LabelControl TextStyle="Normal" Caption="Welcome to the Pennsylvania Child Support Calculator. This app will determine the amount of child support one parent is obligated to pay another every month." ControlWidth="0" DefaultState="enabled" ID="d947dcc7-5b9a-4b1a-b54d-4d1493e8d9d5" />
+        <ImageControl LinkURL="" ControlHeight="384" LinkInNewWindow="true" HorizontalAlign="Center" Caption="A family of penguins" ControlWidth="512" DefaultState="enabled" ID="75c57eb1-cf9c-4995-920b-65fe85d91570">
+          <ImageAsset AssetFileName="f89a9104-1428-41f0-9a0e-c5405b2d3027.jpg" />
+        </ImageControl>
+      </Controls>
+    </Screen>
+    <Screen Title="About the Parties" SubmitAction="Next" CheckpointAfterSubmit="false" DynamicErrors="false" SubmitRedirectURL="" HasBackButton="true" ShowExitButton="true" ShowProgressStages="true" ShowRestartButton="true" PublicName="" QuestionLayout="" QuestionWidth="150" IsAutomatic="false" ShowCondition="relevant" ID="b9d4de30-fe15-43ce-925b-5a109324fb28">
+      <Controls>
+        <AttributeInputControl Attribute="5ac360be-6f31-497f-8619-e58fc9c2416d" IsPassword="false" MinuteIncrement="1" SecondIncrement="1" YearStart="2018" YearEnd="1918" HideCaption="false" ButtonHorizontalLayout="true" InputStyle="Radiobutton" HintText="" ControlWidth="0" DefaultState="enabled" ID="931432ef-93ca-446a-b196-74bc06b12044" />
+        <AttributeInputControl Attribute="2ced0b8f-9ae2-4617-93da-9d0d335054cb" IsPassword="false" MinuteIncrement="1" SecondIncrement="1" YearStart="2018" YearEnd="1918" HideCaption="false" ButtonHorizontalLayout="false" InputStyle="TextBox" HintText="" Caption="How many children is this support action about?" ControlWidth="50" DefaultState="enabled" ID="f6e1db18-e059-4943-b8d7-6d42c850af27" />
+        <AttributeInputControl Attribute="aafcba53-407c-4da0-836e-4aedc7fc6e33" IsPassword="false" MinuteIncrement="1" SecondIncrement="1" YearStart="2018" YearEnd="1918" HideCaption="false" ButtonHorizontalLayout="false" InputStyle="TextBox" HintText="" Caption="Child’s Social Security Derivative Disability or Retirement Benefit" ControlWidth="150" DefaultState="enabled" ID="2980e1c6-dbaf-4d9d-9635-7128bd7f7d1b" />
+        <AttributeInputControl Attribute="5ec4251e-79bd-4277-a612-bf0fcc28b086" IsPassword="false" MinuteIncrement="1" SecondIncrement="1" YearStart="2018" YearEnd="1918" HideCaption="false" ButtonHorizontalLayout="false" MultiLineRows="7" InputStyle="text-area" HintText="" Caption="What is your view on penguins (500 words minimum)?" ControlWidth="550" DefaultState="optional" ID="2cd4bbdf-47d6-4c17-b783-422200d93440" />
+      </Controls>
+    </Screen>
+    <Screen Title="The Parents" SubmitAction="Next" CheckpointAfterSubmit="false" DynamicErrors="false" SubmitRedirectURL="" HasBackButton="true" ShowExitButton="true" ShowProgressStages="true" ShowRestartButton="true" PublicName="" QuestionLayout="" QuestionWidth="150" IsAutomatic="false" ShowCondition="relevant" ID="aee3fe62-e24c-4547-8060-0fca9b671d11">
+      <Controls>
+        <LabelControl TextStyle="Normal" Caption="Who are the parents involved in this custody dispute? Tell us their names." ControlWidth="0" DefaultState="enabled" ID="7dd8b0ca-05a2-4a6f-8ef4-a7291c28f6a2" />
+        <EntityCollectControl Relationship="4c9595d0-757b-4fef-a2e7-ba9f45f5a5f6" DisplayStyle="Portrait" AddButtonCaptionOverride="Add another person" ButtonsExist="true" DefaultBlankInstances="2" ControlWidth="0" DefaultState="enabled" ID="a576b8a1-2d29-4bb5-b551-0e5ad5eb07dc">
+          <Controls>
+            <AttributeInputControl Attribute="32ef4b1f-d1f1-4bbc-b286-7d0029935e0a" IsPassword="false" MinuteIncrement="1" SecondIncrement="1" YearStart="2018" YearEnd="1918" HideCaption="false" ButtonHorizontalLayout="false" InputStyle="TextBox" HintText="" Caption="Name:" ControlWidth="0" DefaultState="enabled" ID="e5b0f5aa-2fad-4eb1-920d-13546ecac741" />
+          </Controls>
+        </EntityCollectControl>
+      </Controls>
+    </Screen>
+    <Screen Title="%person%'s Income" SubmitAction="Next" CheckpointAfterSubmit="false" DynamicErrors="false" SubmitRedirectURL="" HasBackButton="true" ShowExitButton="true" ShowProgressStages="true" ShowRestartButton="true" PublicName="" QuestionLayout="" QuestionWidth="150" IsAutomatic="false" ShowCondition="relevant" ID="84b937d2-4cd6-41d0-9b21-eb251085e99e">
+      <Controls>
+        <AttributeInputControl Attribute="522ffa3c-ca83-4dee-bda3-689e091ca5ba" IsPassword="false" MinuteIncrement="1" SecondIncrement="1" YearStart="2018" YearEnd="1918" HideCaption="false" ButtonHorizontalLayout="false" InputStyle="TextBox" HintText="" Caption="What is the person's total gross monthly income?" ControlWidth="100" DefaultState="enabled" ID="6c6e49f3-4553-429b-afa6-b4bd252af6a6" />
+        <AttributeInputControl Attribute="5b295b2e-42a7-480e-9419-c4c6e81705a5" IsPassword="false" MinuteIncrement="1" SecondIncrement="1" YearStart="2018" YearEnd="1918" HideCaption="false" ButtonHorizontalLayout="false" InputStyle="TextBox" HintText="" Caption="What is the person's monthly deductions?" ControlWidth="100" DefaultState="enabled" ID="8038eda4-e186-41b0-b2cf-453d246e3edd" />
+      </Controls>
+    </Screen>
+    <Screen Title="%person%'s Expenses" SubmitAction="Next" CheckpointAfterSubmit="false" DynamicErrors="false" SubmitRedirectURL="" HasBackButton="true" ShowExitButton="true" ShowProgressStages="true" ShowRestartButton="true" PublicName="" QuestionLayout="" QuestionWidth="150" IsAutomatic="false" ShowCondition="relevant" ID="c3ee0bae-f03f-4d73-acf6-50fa6208ae5b">
+      <Controls>
+        <LabelControl TextStyle="Normal" Caption="Tell us about %person%'s monthly expenses." ControlWidth="0" DefaultState="enabled" ID="c5181cad-d59d-4171-b083-49b5526577c4" />
+        <AttributeInputControl Attribute="6b52a7f9-8317-4bd3-981a-3df2304afab3" IsPassword="false" MinuteIncrement="1" SecondIncrement="1" YearStart="2018" YearEnd="1918" HideCaption="false" ButtonHorizontalLayout="false" InputStyle="TextBox" HintText="" Caption="Child care" ControlWidth="100" DefaultState="enabled" ID="879be3b3-28a3-440a-a460-999863685adb" />
+        <AttributeInputControl Attribute="27f67550-5df1-4808-9604-21048cc34478" IsPassword="false" MinuteIncrement="1" SecondIncrement="1" YearStart="2018" YearEnd="1918" HideCaption="false" ButtonHorizontalLayout="false" InputStyle="TextBox" HintText="" Caption="Health insurance premiums" ControlWidth="100" DefaultState="enabled" ID="2d3878d3-269b-463b-b92e-e08b7db4cc3f" />
+        <AttributeInputControl Attribute="597fdc5d-1391-4b3d-886a-be5939d0c168" IsPassword="false" MinuteIncrement="1" SecondIncrement="1" YearStart="2018" YearEnd="1918" HideCaption="false" ButtonHorizontalLayout="false" InputStyle="TextBox" HintText="" Caption="Unreimbursed medical expenses" ControlWidth="100" DefaultState="enabled" ID="4861ccd3-4699-4995-88dc-4a4871d396da" />
+        <AttributeInputControl Attribute="a1e734f4-e37a-4031-a658-548497b4ca57" IsPassword="false" MinuteIncrement="1" SecondIncrement="1" YearStart="2018" YearEnd="1918" HideCaption="false" ButtonHorizontalLayout="false" InputStyle="TextBox" HintText="" Caption="Additional expenses" ControlWidth="100" DefaultState="enabled" ID="c8ef5d1c-bc6e-43ae-b391-a1e1ec7c7521" />
+      </Controls>
+    </Screen>
+    <Screen Title="Other Questions about %person%" SubmitAction="Next" CheckpointAfterSubmit="false" DynamicErrors="false" SubmitRedirectURL="" HasBackButton="true" ShowExitButton="true" ShowProgressStages="true" ShowRestartButton="true" PublicName="" QuestionLayout="" QuestionWidth="150" IsAutomatic="false" ShowCondition="relevant" ID="846654b9-2b33-4633-9424-695d6376b5e5">
+      <Controls>
+        <AttributeInputControl Attribute="b8277da9-622d-48bc-a7f2-0bcc4f8cbb2b" IsPassword="false" MinuteIncrement="1" SecondIncrement="1" YearStart="2018" YearEnd="1918" HideCaption="false" ButtonHorizontalLayout="true" InputStyle="Radiobutton" HintText="" Caption="Did a court order that %person% is the obligor?" ControlWidth="0" DefaultState="enabled" ID="ae556147-190d-49d7-b9c4-a389ced34ffa" />
+        <AttributeInputControl Attribute="1b0393ed-52b7-46c7-ab60-0d73dc5382cd" IsPassword="false" MinuteIncrement="1" SecondIncrement="1" YearStart="2018" YearEnd="1918" HideCaption="false" ButtonHorizontalLayout="true" InputStyle="Radiobutton" HintText="" ControlWidth="0" DefaultState="enabled" ID="2148e59c-af46-4cef-a272-df39aaad5390" />
+        <AttributeInputControl Attribute="f2fe59e5-5d34-447c-b4b5-0ed3f9626fb4" IsPassword="false" MinuteIncrement="1" SecondIncrement="1" YearStart="2018" YearEnd="1918" HideCaption="false" ButtonHorizontalLayout="false" InputStyle="TextBox" HintText="" Caption="What percentage of time does the person spend with the children?" ControlWidth="100" DefaultState="enabled" ID="ccbb568f-1077-49a6-8c00-ed296a89aaab" />
+        <AttributeInputControl Attribute="411e2b6a-f2fb-4611-96b0-439f82aefc75" IsPassword="false" MinuteIncrement="1" SecondIncrement="1" YearStart="2018" YearEnd="1918" HideCaption="false" ButtonHorizontalLayout="false" InputStyle="TextBox" HintText="" Caption="Enter %person%'s additional adjustments to income:" ControlWidth="100" DefaultState="enabled" ID="f755ec44-5dd7-45cf-b184-021b8bfe0a2d" />
+      </Controls>
+    </Screen>
+    <Screen Title="Interview Complete" SubmitAction="Next" CheckpointAfterSubmit="false" DynamicErrors="false" SubmitRedirectURL="" HasBackButton="false" ShowExitButton="true" ShowProgressStages="true" ShowRestartButton="true" PublicName="" QuestionLayout="" QuestionWidth="150" IsAutomatic="false" ShowCondition="always" ID="abd6da93-2029-420b-b48f-a1ca11b91957">
+      <Controls>
+        <ExplanationControl ShowReferenceTags="true" ControlWidth="0" DefaultState="enabled" ID="70731467-10e2-430e-abc4-2bf64e80cbce" />
+        <EntityGroupControl Entity="c7213dee-a496-4d6a-ada5-227a1967a340" DisplayStyle="Portrait" ControlWidth="0" DefaultState="enabled" ID="2b1a6dc8-45a1-41b1-b6e1-380668520b0b">
+          <Controls>
+            <ExplanationControl Attribute="dff386eb-03d3-4e01-8d93-76937c5f4abb" ShowReferenceTags="true" ControlWidth="0" DefaultState="enabled" ID="46133ed7-cee1-4479-80d9-bd60a64bd608" />
+            <ExplanationControl Attribute="dd726770-1772-4019-bf8c-9091e103bb88" ShowReferenceTags="true" ControlWidth="0" DefaultState="enabled" ID="8f9dffa7-c9d5-4399-b39d-e2e504b21b4e" />
+          </Controls>
+        </EntityGroupControl>
+      </Controls>
+    </Screen>
+  </screens>
+  <screen-order ID="480506c2-fff6-44f1-8e49-035a230e198b" PublicName="Main">
+    <goal-set>
+      <attr id="dff386eb-03d3-4e01-8d93-76937c5f4abb" />
+      <attr id="dd726770-1772-4019-bf8c-9091e103bb88" />
+    </goal-set>
+    <ScreenOrderItemContainer ID="b072f144-e07d-43b2-a2ce-dd6ac9847712" Title="Stage 1">
+      <ScreenOrderScreen Screen="2ef283b5-886b-4a70-94dd-79f456e47ba1" />
+      <ScreenOrderScreen Screen="b9d4de30-fe15-43ce-925b-5a109324fb28" />
+      <ScreenOrderScreen Screen="aee3fe62-e24c-4547-8060-0fca9b671d11" />
+      <ScreenOrderScreen Screen="84b937d2-4cd6-41d0-9b21-eb251085e99e" />
+      <ScreenOrderScreen Screen="c3ee0bae-f03f-4d73-acf6-50fa6208ae5b" />
+      <ScreenOrderScreen Screen="846654b9-2b33-4633-9424-695d6376b5e5" />
+      <ScreenOrderScreen Screen="abd6da93-2029-420b-b48f-a1ca11b91957" />
+    </ScreenOrderItemContainer>
+  </screen-order>
+</interview>

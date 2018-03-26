@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root product-version="12.2.9.975">
+  <entities>
+    <entity ref="global" />
+    <entity id="08851b70-3c7f-4bda-8996-f94cf4de4d8d" name="the limitation" identifying-attribute-name="55ceab97-da94-4441-a33f-26d822c9802b" containment-relationship-id="7eba422b-1329-4b81-afce-0321455bc5d3" containment-parent-id="global">
+      <attribute name="55ceab97-da94-4441-a33f-26d822c9802b" type="text" public-name="limitation" substitutable="true" default-gender="Generic" user-created="true">
+        <text>
+          <base>the limitation</base>
+        </text>
+      </attribute>
+      <attribute name="849ddb63-1a60-4782-86d5-ecd5b99030cf" type="auto">
+        <text>
+          <base>the limitation type</base>
+        </text>
+      </attribute>
+    </entity>
+  </entities>
+  <relationships>
+    <relationship relationship-id="7eba422b-1329-4b81-afce-0321455bc5d3" reverse-relationship-id="434de6ec-3c4d-4aa7-8b02-77d9c3e1df66" source="global" target="08851b70-3c7f-4bda-8996-f94cf4de4d8d" is-containment="true" public-id="" reverse-public-id="" text="the limitations" reverse-text="" type="OneToMany" is-computed="false" silent-if-known="true" invisible-if-known="true" />
+  </relationships>
+</root>

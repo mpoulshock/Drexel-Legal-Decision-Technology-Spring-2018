@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<interview product-version="12.2.9.975">
+  <cors />
+  <documents UsePDFA="false" />
+  <screens>
+    <Screen Title="Substantial Functional Limitations" SubmitAction="Next" CheckpointAfterSubmit="false" DynamicErrors="false" SubmitRedirectURL="" HasBackButton="false" ShowExitButton="true" ShowProgressStages="true" ShowRestartButton="true" PublicName="" QuestionLayout="" QuestionWidth="150" IsAutomatic="false" ShowCondition="relevant" ID="b9626fd9-4bdc-490e-81a7-9f3c5109625f">
+      <Controls>
+        <EntityCollectControl Relationship="7eba422b-1329-4b81-afce-0321455bc5d3" DisplayStyle="Portrait" ButtonsExist="true" DefaultBlankInstances="0" ControlWidth="0" DefaultState="enabled" ID="d5917a26-226b-4da4-b8e2-e12ebb539803">
+          <Controls>
+            <AttributeInputControl Attribute="849ddb63-1a60-4782-86d5-ecd5b99030cf" IsPassword="false" MinuteIncrement="1" SecondIncrement="1" YearStart="2018" YearEnd="1918" HideCaption="false" ButtonHorizontalLayout="false" InputStyle="Dropdown" HintText="" ControlWidth="0" DefaultState="enabled" ID="06ad8827-1f30-437a-af7c-fbe312ae3b7a">
+              <ManualList>
+                <ListItem Value="Self-care" />
+                <ListItem Value="Learning" />
+                <ListItem Value="Mobility" />
+              </ManualList>
+            </AttributeInputControl>
+          </Controls>
+        </EntityCollectControl>
+      </Controls>
+    </Screen>
+    <Screen Title="Interview Complete" SubmitAction="Next" CheckpointAfterSubmit="false" DynamicErrors="false" SubmitRedirectURL="" HasBackButton="true" ShowExitButton="true" ShowProgressStages="true" ShowRestartButton="true" PublicName="" QuestionLayout="" QuestionWidth="150" IsAutomatic="false" ShowCondition="always" ID="c37e122c-323e-4385-a493-5869215fd797">
+      <Controls>
+        <ExplanationControl ShowReferenceTags="true" ControlWidth="0" DefaultState="enabled" ID="7d2aca00-d2c0-47d3-b3b2-7dd958e42fda" />
+      </Controls>
+    </Screen>
+  </screens>
+  <screen-order ID="b5e29abc-8412-4963-b8e0-a2ceb1cfeb91" PublicName="Main">
+    <ScreenOrderItemContainer ID="5c9fb2b1-d637-49af-98d3-72dfdcf07f60" Title="Stage 1">
+      <ScreenOrderScreen Screen="b9626fd9-4bdc-490e-81a7-9f3c5109625f" />
+      <ScreenOrderScreen Screen="c37e122c-323e-4385-a493-5869215fd797" />
+    </ScreenOrderItemContainer>
+  </screen-order>
+</interview>
